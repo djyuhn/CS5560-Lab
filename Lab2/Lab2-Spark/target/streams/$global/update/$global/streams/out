@@ -7,7 +7,7 @@
 [debug] == resolving dependencies for default#lab2-spark_2.11;1.0 [compile]
 [debug] == resolving dependencies default#lab2-spark_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@472eac70
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31612327
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.8
 [debug] 	found org.scala-lang#scala-library;2.11.8 in sbt-chain
 [debug] 	[2.11.8] org.scala-lang#scala-library;2.11.8
@@ -4513,7 +4513,7 @@
 [debug] == resolving dependencies default#lab2-spark_2.11;1.0->org.apache.spark#spark-mllib_2.11;2.3.1 [compile->master]
 [debug] == resolving dependencies default#lab2-spark_2.11;1.0->edu.stanford.nlp#stanford-corenlp;3.9.1 [compile->default(compile)]
 [info] Resolving edu.stanford.nlp#stanford-corenlp;3.9.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b14e371
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c26ceab
 [debug] sbt-chain: module revision found in cache: edu.stanford.nlp#stanford-corenlp;3.9.1
 [debug] 	found edu.stanford.nlp#stanford-corenlp;3.9.1 in sbt-chain
 [debug] == resolving dependencies default#lab2-spark_2.11;1.0->edu.stanford.nlp#stanford-corenlp;3.9.1 [compile->runtime]
@@ -28564,7 +28564,7 @@
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.8!scala-compiler.jar
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(bundle)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar
-[debug] :: resolution report :: resolve 8655ms :: artifacts dl 219ms
+[debug] :: resolution report :: resolve 8264ms :: artifacts dl 301ms
 [debug] 	report for default#lab2-spark_2.11;1.0 compile produced in C:\dev\CS5560-Lab\Lab2\Lab2-Spark\target\resolution-cache\reports\default-lab2-spark_2.11-compile.xml
 [debug] 	report for default#lab2-spark_2.11;1.0 runtime produced in C:\dev\CS5560-Lab\Lab2\Lab2-Spark\target\resolution-cache\reports\default-lab2-spark_2.11-runtime.xml
 [debug] 	report for default#lab2-spark_2.11;1.0 test produced in C:\dev\CS5560-Lab\Lab2\Lab2-Spark\target\resolution-cache\reports\default-lab2-spark_2.11-test.xml
@@ -28578,7 +28578,7 @@
 [debug] 	report for default#lab2-spark_2.11;1.0 docs produced in C:\dev\CS5560-Lab\Lab2\Lab2-Spark\target\resolution-cache\reports\default-lab2-spark_2.11-docs.xml
 [debug] 	report for default#lab2-spark_2.11;1.0 pom produced in C:\dev\CS5560-Lab\Lab2\Lab2-Spark\target\resolution-cache\reports\default-lab2-spark_2.11-pom.xml
 [debug] 	report for default#lab2-spark_2.11;1.0 scala-tool produced in C:\dev\CS5560-Lab\Lab2\Lab2-Spark\target\resolution-cache\reports\default-lab2-spark_2.11-scala-tool.xml
-[debug] 	resolve done (8655ms resolve - 219ms download)
+[debug] 	resolve done (8264ms resolve - 301ms download)
 [info] Done updating.
 [warn] There may be incompatibilities among your library dependencies.
 [warn] Here are some of the libraries that were evicted:
