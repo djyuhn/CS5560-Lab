@@ -2,12 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
 <ivy-report version="1.0">
 	<info
-		organisation="tutorial-3-corenlp"
-		module="tutorial-3-corenlp$sources_2.11"
+		organisation="mental-illness-project"
+		module="mental-illness-project$sources_2.11"
 		revision="1.0"
-		conf="plugin"
+		conf="sources"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20180910152730"/>
+		date="20181010195933"/>
 	<dependencies>
 	</dependencies>
 </ivy-report>
