@@ -2,21 +2,23 @@ package openie;
 
 import edu.stanford.nlp.coref.CorefCoreAnnotations;
 import edu.stanford.nlp.coref.data.CorefChain;
+import edu.stanford.nlp.ie.util.RelationTriple;
 import edu.stanford.nlp.ling.CoreAnnotations;
 import edu.stanford.nlp.ling.CoreLabel;
+import edu.stanford.nlp.naturalli.NaturalLogicAnnotations;
 import edu.stanford.nlp.pipeline.Annotation;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import edu.stanford.nlp.semgraph.SemanticGraph;
 import edu.stanford.nlp.semgraph.SemanticGraphCoreAnnotations;
+import edu.stanford.nlp.simple.Document;
+import edu.stanford.nlp.simple.Sentence;
 import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.trees.TreeCoreAnnotations;
 import edu.stanford.nlp.util.CoreMap;
+import edu.stanford.nlp.util.Quadruple;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
-import java.util.Properties;
+import java.util.*;
 
 
 /**
@@ -27,7 +29,7 @@ public class CoreNLP {
 
         // creates a StanfordCoreNLP object, with POS tagging, lemmatization, NER, parsing, and coreference resolution
         Properties props = new Properties();
-        props.setProperty("annotators", "tokenize, ssplit, pos, lemma, ner, parse, dcoref");
+        props.setProperty("annotators", "tokenize,ssplit,pos,lemma,ner,parse,dcoref,depparse,natlog,openie");
         StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
 
         // create an empty Annotation just with the given text
@@ -71,6 +73,67 @@ public class CoreNLP {
             }
         }
         return sb.toString();
+    }
+
+    public static String returnTriplets(List<CoreMap> sentences) {
+
+        StringBuilder sb = new StringBuilder();
+
+        // Loop over sentences in the document
+        for (CoreMap sentence : sentences) {
+            // Get the OpenIE triples for the sentence
+            Collection<RelationTriple> triples =
+                    sentence.get(NaturalLogicAnnotations.RelationTriplesAnnotation.class);
+            // Print the triples
+            for (RelationTriple triple : triples) {
+                System.out.println(triple.confidence + "\t" +
+                        triple.subjectLemmaGloss() + "\t" +
+                        triple.relationLemmaGloss() + "\t" +
+                        triple.objectLemmaGloss());
+
+                sb.append(triple.confidence).append("\t")
+                        .append(triple.subjectLemmaGloss()).append("\t")
+                        .append(triple.relationLemmaGloss()).append("\t")
+                        .append(triple.objectLemmaGloss()).append("\n");
+            }
+        }
+
+        return sb.toString();
+
+    }
+
+    public static String returnTriplets(String text) {
+
+        StringBuilder sb = new StringBuilder();
+
+        Properties props = new Properties();
+        props.setProperty("annotators", "tokenize,ssplit,pos,lemma,depparse,natlog,openie");
+        StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
+
+        Annotation doc = new Annotation(text);
+        pipeline.annotate(doc);
+
+        // Loop over sentences in the document
+        for (CoreMap sentence : doc.get(CoreAnnotations.SentencesAnnotation.class)) {
+            // Get the OpenIE triples for the sentence
+            Collection<RelationTriple> triples =
+                    sentence.get(NaturalLogicAnnotations.RelationTriplesAnnotation.class);
+            // Print the triples
+            for (RelationTriple triple : triples) {
+                System.out.println(triple.confidence + "\t" +
+                        triple.subjectLemmaGloss() + "\t" +
+                        triple.relationLemmaGloss() + "\t" +
+                        triple.objectLemmaGloss());
+
+                sb.append(triple.confidence).append("\t")
+                        .append(triple.subjectLemmaGloss()).append("\t")
+                        .append(triple.relationLemmaGloss()).append("\t")
+                        .append(triple.objectLemmaGloss()).append("\n");
+            }
+        }
+
+        return sb.toString();
+
     }
 
 }

@@ -1,6 +1,6 @@
 package openie
 
-import java.io.{File, PrintWriter}
+import java.io.{BufferedWriter, File, FileWriter}
 
 import org.apache.spark.{SparkConf, SparkContext}
 
@@ -17,12 +17,10 @@ object SparkPOSCount {
 
     val sc=new SparkContext(sparkConf)
 
-    val inputf = sc.wholeTextFiles("mental_illness_abstracts", 100)
+    val inputf = sc.wholeTextFiles("mental_illness_abstracts", 50)
     val input = inputf.map(abs => {
       abs._2
     }).cache()
-
-    // val input=sc.textFile("input", 10)
 
     val wc=input.flatMap(abstracts=> {abstracts.split("\n")}).map(singleAbs => {
       CoreNLP.returnSentences(singleAbs)
@@ -30,31 +28,34 @@ object SparkPOSCount {
       CoreNLP.returnPOS(sentences)
     }).flatMap(wordPOSLines => {
       wordPOSLines.split("\n")
-    }).map(wordPOSPair => {
-      wordPOSPair.split("\t")
-    }).map(wordPOS => (wordPOS(1), 1)).cache()
+    }).cache()
 
-    val output = wc.reduceByKey(_+_)
+    wc.saveAsTextFile("output/POS")
 
-    output.saveAsTextFile("output/POS")
+    val o=wc.collect()
 
-    val o=output.collect()
+    val nounWriter = new BufferedWriter(new FileWriter("data/POS/allNouns.txt"))
+    val verbWriter = new BufferedWriter(new FileWriter("data/POS/allVerbs.txt"))
 
     var nouns = 0
     var verbs = 0
 
-    o.foreach{case(word,count)=> {
-
-      if(word.contains("NN")) {
-        nouns += count
+    o.foreach{case(pair)=> {
+      val splitPair = pair.split("\t")
+      if(splitPair(1).contains("NN")) {
+        println(splitPair(0))
+        nounWriter.append(splitPair(0) + "\n")
+        nouns = nouns + 1
       }
-      else if(word.contains("VB")) {
-        verbs += count
+      else if(splitPair(1).contains("VB")) {
+        verbWriter.append(splitPair(0) + "\n")
+        verbs = verbs + 1
       }
-
     }}
+    nounWriter.close()
+    verbWriter.close()
 
-    val nounVerbWriter = new PrintWriter(new File("data/POS/nouns&verbs.txt"))
+    val nounVerbWriter = new BufferedWriter(new FileWriter("data/POS/nouns&verbs.txt"))
     nounVerbWriter.write("Total Nouns: " + nouns + "\nTotal Verbs: " + verbs)
     nounVerbWriter.close()
 

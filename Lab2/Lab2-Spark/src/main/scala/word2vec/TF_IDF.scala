@@ -13,10 +13,13 @@ import scala.collection.immutable.HashMap
 object TF_IDF {
   def main(args: Array[String]): Unit = {
 
-    System.setProperty("hadoop.home.dir", "C:\\winutils")
-
+    // Change input path here
     val inputPath = "data/medWordsSeparate"
+    // Change output path here
+    val outputPath = "data/TF_IDF/wordStats/medWords"
 
+
+    System.setProperty("hadoop.home.dir", "C:\\winutils")
     val sparkConf = new SparkConf().setAppName("SparkWordCount").setMaster("local[*]")
 
     val sc = new SparkContext(sparkConf)
@@ -165,9 +168,9 @@ object TF_IDF {
       (f, h(i.toString))
     })
 
-    val topLemWriter = new BufferedWriter(new FileWriter("data/TF_IDF/wordStats/topLemWords.txt"))
-    val topWordWriter = new BufferedWriter(new FileWriter("data/TF_IDF/wordStats/topWords.txt"))
-    val topNGRAMWriter = new BufferedWriter(new FileWriter("data/TF_IDF/wordStats/topNGRAMs.txt"))
+    val topLemWriter = new BufferedWriter(new FileWriter(outputPath + "/topLemWords.txt"))
+    val topWordWriter = new BufferedWriter(new FileWriter(outputPath + "/topWords.txt"))
+    val topNGRAMWriter = new BufferedWriter(new FileWriter(outputPath + "/topNGRAMs.txt"))
 
     val dd1 = ddLem.distinct().sortBy(_._2, false)
     dd1.take(20).foreach(f => {
