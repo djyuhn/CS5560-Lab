@@ -4,6 +4,9 @@ import java.io.{BufferedWriter, File, FileWriter}
 
 import org.apache.spark.{SparkConf, SparkContext}
 
+import scala.collection.mutable
+import scala.collection.mutable.ArrayBuffer
+
 
 /**
  * Created by DJ Yuhn on 9/17/18.
@@ -39,11 +42,23 @@ object SparkBioNLP {
     val o=sparkIDs.collect()
 
     val allMedicalWordsWriter = new BufferedWriter(new FileWriter("data/medWords/allMedWords.txt"))
+    val uniqueMedicalWordsWriter = new BufferedWriter(new FileWriter("data/medWords/allUniqueMedWords.txt"))
+    val uniqueMedWords = new mutable.HashSet[String]()
 
     o.foreach(list => {
       allMedicalWordsWriter.append(list)
+      val splitList = list.split("\n")
+      splitList.foreach(word => {
+        uniqueMedWords.add(word)
+      })
+
     })
     allMedicalWordsWriter.close()
+
+    for (word <- uniqueMedWords) {
+      uniqueMedicalWordsWriter.append(word).append("\n")
+    }
+    uniqueMedicalWordsWriter.close()
   }
 
 }

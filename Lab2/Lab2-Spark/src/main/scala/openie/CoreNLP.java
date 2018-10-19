@@ -120,13 +120,11 @@ public class CoreNLP {
                     sentence.get(NaturalLogicAnnotations.RelationTriplesAnnotation.class);
             // Print the triples
             for (RelationTriple triple : triples) {
-                System.out.println(triple.confidence + "\t" +
-                        triple.subjectLemmaGloss() + "\t" +
+                System.out.println(triple.subjectLemmaGloss() + "\t" +
                         triple.relationLemmaGloss() + "\t" +
                         triple.objectLemmaGloss());
 
-                sb.append(triple.confidence).append("\t")
-                        .append(triple.subjectLemmaGloss()).append("\t")
+                sb.append(triple.subjectLemmaGloss()).append("\t")
                         .append(triple.relationLemmaGloss()).append("\t")
                         .append(triple.objectLemmaGloss()).append("\n");
             }

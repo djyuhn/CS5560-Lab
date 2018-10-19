@@ -49,7 +49,7 @@ public class RESTClientGet {
                 // Only obtain the medical words, not the Title and Abstract (line_ct >= 2)
                 if (word_info.length !=0 && !word_info[0].equals("") && line_ct >= 2) {
                     // Extract PMID and output the word and the genre associated with the word
-                    medicalWords.add(word_info[0] + "\t" + word_info[3] + "\t" + word_info[4] + "\n");
+                    medicalWords.add(word_info[3] + "\t" + word_info[4] + "\n");
                 }
                 line_ct++;
             }

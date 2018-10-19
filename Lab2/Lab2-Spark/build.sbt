@@ -1,4 +1,4 @@
-name := "Lab2-Spark"
+name := "Ontology Project"
 
 version := "1.0"
 
