@@ -21,23 +21,49 @@ object BioNLP_Grouping {
 
     val sc = new SparkContext(sparkConf)
 
-    val inputf = sc.wholeTextFiles("data/medWordsSeparate", 50)
-    val input = inputf.map(words => {
-      words._2
-    }).cache()
+    val uniqueMedWordsFile = sc.textFile("data/medWords/allUniqueMedWords.txt")
 
+    val uniqueMedWordsTuple = uniqueMedWordsFile.map(line => {
+      val splitLine = line.split("\t")
+      (splitLine(0), splitLine(1))
+    })
 
+    val uniqueMedWordsTupleBroadCast = sc.broadcast(uniqueMedWordsTuple.collectAsMap())
 
-    val medicalWords = input.distinct.map(line => {
-      if(!line.isEmpty) {
-        val splitLine = line.split("\t")
-        val word = (splitLine(1), splitLine(2))
+    val objectsCategorized = sc.textFile("data/ontology/objects/objects.txt").map(line => {
+      val categorized = new mutable.StringBuilder(line)
+      val tuple = uniqueMedWordsTupleBroadCast.value
+      if(tuple.keySet.contains(line)) {
+        categorized.append("\t").append(tuple(line))
       }
-    }).cache()
+      else
+        categorized.append("\t").append("Other")
+      categorized
+    })
 
-    val collect = medicalWords.distinct.collect()
+    val subjectsCategorized = sc.textFile("data/ontology/subjects/subjects.txt").map(line => {
+      val categorized = new mutable.StringBuilder(line)
+      val tuple = uniqueMedWordsTupleBroadCast.value
+      if(tuple.keySet.contains(line)) {
+        categorized.append("\t").append(tuple(line))
+      }
+      else
+        categorized.append("\t").append("Other")
+      categorized
+    })
 
-    val medicalWordCategoryWriter = new BufferedWriter(new FileWriter("data/categories/allMedWords.txt"))
+    val subjectCategorizedWriter = new BufferedWriter(new FileWriter("data/ontology/subjects/categorizedSubjects.txt"))
+    val objectsCategorizedWriter = new BufferedWriter(new FileWriter("data/ontology/objects/categorizedObjects.txt"))
+
+    subjectsCategorized.collect().foreach(subject => {
+      subjectCategorizedWriter.append(subject).append("\n")
+    })
+    subjectCategorizedWriter.close()
+
+    objectsCategorized.collect().foreach(subject => {
+      objectsCategorizedWriter.append(subject).append("\n")
+    })
+    objectsCategorizedWriter.close()
 
   }
 }
