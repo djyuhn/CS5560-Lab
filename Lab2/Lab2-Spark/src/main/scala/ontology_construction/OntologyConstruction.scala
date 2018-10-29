@@ -62,18 +62,18 @@ object OntologyConstruction {
     */
 
     // Handle Triplets
-    val tripletsFile = sc.textFile("data/triplets/allTriplets.txt")
+    val tripletsFile = sc.textFile("data/ontology/triplets/allTriplets.txt")
     val triplets = tripletsFile.map(line => {
       val splitLine = line.split("\t")
       for( a <- 0 until splitLine.size) {
-        splitLine(a) = splitLine(a).replaceAll(" ", "_")
+        splitLine(a) = splitLine(a).replaceAll("[^a-zA-Z0-9\\s+.-]", "").replaceAll(" ", "_")
       }
       splitLine
     }).cache()
 
     val tripletsCollect = triplets.collect()
 
-    val tripletsWriter = new BufferedWriter(new FileWriter("data/ontology/construction/Triplets.txt"))
+    val tripletsWriter = new BufferedWriter(new FileWriter("data/ontology/construction/Triplets"))
 
     tripletsCollect.foreach(tripletArr => {
       val outputBuilder = new mutable.StringBuilder(tripletArr.mkString(","))
@@ -83,39 +83,59 @@ object OntologyConstruction {
 
     tripletsWriter.close()
 
-    // Handle Predicates
-    val predicatesFile = sc.textFile("data/ontology/predicates/predicates.txt")
-    val predicates = predicatesFile.map(line => {
-      line.replaceAll(" ", "_")
-    }).cache()
-
-    val predicatesCollect = predicates.collect()
-
-    val predicatesWriter = new BufferedWriter(new FileWriter("data/ontology/construction/ObjectProperties.txt"))
-
-    predicatesCollect.foreach(predicate => {
-      val outputBuilder = new mutable.StringBuilder()
-      outputBuilder.append(predicate).append(",Subject,Object,Func").append("\n")
-      predicatesWriter.append(outputBuilder)
+    // Handle ObjectProperties
+    val subjCatTuple = sc.textFile("data/ontology/subjects/categorizedSubjects.txt").map(line => {
+      val splitLine = line.split("\t")
+      (splitLine(0), splitLine(1))
     })
+    val subjCatBroadCast = sc.broadcast(subjCatTuple.collectAsMap())
 
-    predicatesWriter.close()
+    val objCatTuple = sc.textFile("data/ontology/objects/categorizedObjects.txt").map(line => {
+      val splitLine = line.split("\t")
+      (splitLine(0), splitLine(1))
+    })
+    val objCatBroadCast = sc.broadcast(subjCatTuple.collectAsMap())
+
+    val triplesFile = sc.textFile("data/ontology/triplets/allTriplets.txt").collect()
+
+    val objPropWriter = new BufferedWriter(new FileWriter("data/ontology/construction/ObjectProperties"))
+
+    triplesFile.foreach(triplet => {
+      val splitTriplet = triplet.split("\t")
+      val subjCategories = subjCatBroadCast.value
+      val objCategories = objCatBroadCast.value
+      var subjCat = "Other"
+      var objCat = "Other"
+      val outputBuilder = new mutable.StringBuilder()
+      val predicateMod = splitTriplet(1).replaceAll("[^a-zA-Z0-9\\s+.-]", "").replaceAll(" ", "_")
+      outputBuilder.append(predicateMod).append(",")
+
+      if(subjCategories.keySet.contains(splitTriplet(0))) {
+        subjCat = subjCategories(splitTriplet(0))
+      }
+      if(objCategories.keySet.contains(splitTriplet(2))) {
+        objCat = objCategories(splitTriplet(2))
+      }
+      outputBuilder.append(subjCat).append(",").append(objCat).append(",Func").append("\n")
+      objPropWriter.append(outputBuilder)
+    })
+    objPropWriter.close()
 
     // Handle Subjects & Objects
     val subjectsFile = sc.textFile("data/ontology/subjects/categorizedSubjects.txt")
     val subjects = subjectsFile.map(line => {
       val splitLine = line.split("\t")
       for( a <- 0 until splitLine.size) {
-        splitLine(a) = splitLine(a).replaceAll(" ", "_")
+        splitLine(a) = splitLine(a).replaceAll("[^a-zA-Z0-9\\s+.-]", "").replaceAll(" ", "_")
       }
       splitLine
     }).cache()
 
     val objectsFile = sc.textFile("data/ontology/objects/categorizedObjects.txt")
-    val objects = subjectsFile.map(line => {
+    val objects = objectsFile.map(line => {
       val splitLine = line.split("\t")
       for( a <- 0 until splitLine.size) {
-        splitLine(a) = splitLine(a).replaceAll(" ", "_")
+        splitLine(a) = splitLine(a).replaceAll("[^a-zA-Z0-9\\s+.-]", "").replaceAll(" ", "_")
       }
       splitLine
     }).cache()
@@ -123,20 +143,20 @@ object OntologyConstruction {
     val subjectsCollect = subjects.collect()
     val objectsCollect = objects.collect()
 
-    val individualsWriter = new BufferedWriter(new FileWriter("data/ontology/construction/Individuals.txt"))
+    val individualsWriter = new BufferedWriter(new FileWriter("data/ontology/construction/Individuals"))
 
     subjectsCollect.foreach(subjectArr => {
-      val outputBuilder = new mutable.StringBuilder(subjectArr.mkString(","))
+      val outputBuilder = new mutable.StringBuilder()
+      outputBuilder.append(subjectArr(1)).append(",").append(subjectArr(0))
       outputBuilder.append("\n")
       individualsWriter.append(outputBuilder)
-      individualsWriter.append(subjectArr(0) + ",Subject" + "\n")
     })
 
     objectsCollect.foreach(objectArr => {
-      val outputBuilder = new mutable.StringBuilder(objectArr.mkString(","))
+      val outputBuilder = new mutable.StringBuilder()
+      outputBuilder.append(objectArr(1)).append(",").append(objectArr(0))
       outputBuilder.append("\n")
       individualsWriter.append(outputBuilder)
-      individualsWriter.append(objectArr(0) + ",Object" + "\n")
     })
 
     individualsWriter.close()

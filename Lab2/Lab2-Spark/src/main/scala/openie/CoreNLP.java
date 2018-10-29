@@ -16,6 +16,7 @@ import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.trees.TreeCoreAnnotations;
 import edu.stanford.nlp.util.CoreMap;
 import edu.stanford.nlp.util.Quadruple;
+import scala.collection.mutable.ArrayBuffer;
 
 import java.io.*;
 import java.util.*;
@@ -102,7 +103,7 @@ public class CoreNLP {
 
     }
 
-    public static String returnTriplets(String text) {
+    public static String returnLongestTriplet(String text) {
 
         StringBuilder sb = new StringBuilder();
 
@@ -115,6 +116,8 @@ public class CoreNLP {
 
         // Loop over sentences in the document
         for (CoreMap sentence : doc.get(CoreAnnotations.SentencesAnnotation.class)) {
+            String longestTriple = "";
+
             // Get the OpenIE triples for the sentence
             Collection<RelationTriple> triples =
                     sentence.get(NaturalLogicAnnotations.RelationTriplesAnnotation.class);
@@ -124,14 +127,32 @@ public class CoreNLP {
                         triple.relationLemmaGloss() + "\t" +
                         triple.objectLemmaGloss());
 
-                sb.append(triple.subjectLemmaGloss()).append("\t")
-                        .append(triple.relationLemmaGloss()).append("\t")
-                        .append(triple.objectLemmaGloss()).append("\n");
+                String runTriple = triple.subjectLemmaGloss() + "\t" +
+                        triple.relationLemmaGloss() + "\t" +
+                        triple.objectLemmaGloss();
+
+                if (longestTriple.length() < runTriple.length())
+                    longestTriple = runTriple;
             }
+
+            // Append largest triplet to final string.
+            sb.append(longestTriple).append("\n");
         }
 
         return sb.toString();
 
+    }
+
+    private static String findLongestString(ArrayList<String> text) {
+        String longestString = " ";
+        if (!text.isEmpty()) {
+            longestString = text.get(0);
+            for (int i = 1; i < text.size(); i++)
+                if (text.get(i).length() > longestString.length())
+                    longestString = text.get(i);
+        }
+
+        return longestString;
     }
 
 }

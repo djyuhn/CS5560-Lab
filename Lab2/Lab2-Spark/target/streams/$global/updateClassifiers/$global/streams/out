@@ -17,7 +17,7 @@
 [debug] == resolving dependencies for ontology-project#ontology-project$sources_2.11;1.0 [compile]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e61734b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3fb54278
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.8
 [debug] 	found org.scala-lang#scala-library;2.11.8 in sbt-chain
 [debug] 	[2.11.8] org.scala-lang#scala-library;2.11.8
@@ -26,7 +26,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-streaming_2.11;2.3.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-streaming_2.11;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3791746a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d4febf6
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-streaming_2.11;2.3.1
 [debug] 	found org.apache.spark#spark-streaming_2.11;2.3.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-streaming_2.11;2.3.1 [compile->runtime]
@@ -34,7 +34,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-streaming_2.11;2.3.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-core_2.11;2.3.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-core_2.11;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5378374b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ec92d54
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-core_2.11;2.3.1
 [debug] 	found org.apache.spark#spark-core_2.11;2.3.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-core_2.11;2.3.1 [compile->runtime]
@@ -42,7 +42,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-core_2.11;2.3.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.avro#avro;1.7.7 [compile->default(compile)]
 [info] Resolving org.apache.avro#avro;1.7.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48901bc2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c71f346
 [debug] sbt-chain: module revision found in cache: org.apache.avro#avro;1.7.7
 [debug] 	found org.apache.avro#avro;1.7.7 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.avro#avro;1.7.7 [compile->runtime]
@@ -50,7 +50,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.avro#avro;1.7.7 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.jackson#jackson-core-asl;1.9.13 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-core-asl;1.9.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e158834
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55634a1
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-core-asl;1.9.13
 [debug] 	found org.codehaus.jackson#jackson-core-asl;1.9.13 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.jackson#jackson-core-asl;1.9.13 [compile->runtime]
@@ -58,7 +58,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.jackson#jackson-core-asl;1.9.13 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.jackson#jackson-mapper-asl;1.9.13 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-mapper-asl;1.9.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f77270c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d73fbb9
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-mapper-asl;1.9.13
 [debug] 	found org.codehaus.jackson#jackson-mapper-asl;1.9.13 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.jackson#jackson-mapper-asl;1.9.13 [compile->runtime]
@@ -66,7 +66,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.jackson#jackson-mapper-asl;1.9.13 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.commons#commons-compress;1.4.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-compress;1.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@58832e79
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c30d3aa
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-compress;1.4.1
 [debug] 	found org.apache.commons#commons-compress;1.4.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.commons#commons-compress;1.4.1 [compile->runtime]
@@ -74,7 +74,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.commons#commons-compress;1.4.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.tukaani#xz;1.0 [compile->default(compile)]
 [info] Resolving org.tukaani#xz;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4803a2a8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5051dd6e
 [debug] sbt-chain: module revision found in cache: org.tukaani#xz;1.0
 [debug] 	found org.tukaani#xz;1.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.tukaani#xz;1.0 [compile->runtime]
@@ -82,7 +82,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.tukaani#xz;1.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.avro#avro-mapred;1.7.7 [compile->default(compile)]
 [info] Resolving org.apache.avro#avro-mapred;1.7.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a88875e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33350b29
 [debug] sbt-chain: module revision found in cache: org.apache.avro#avro-mapred;1.7.7
 [debug] 	found org.apache.avro#avro-mapred;1.7.7 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.avro#avro-mapred;1.7.7 [compile->runtime]
@@ -90,7 +90,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.avro#avro-mapred;1.7.7 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.avro#avro-ipc;1.7.7 [compile->default(compile)]
 [info] Resolving org.apache.avro#avro-ipc;1.7.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16d171bb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1df1b27d
 [debug] sbt-chain: module revision found in cache: org.apache.avro#avro-ipc;1.7.7
 [debug] 	found org.apache.avro#avro-ipc;1.7.7 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.avro#avro-ipc;1.7.7 [compile->runtime]
@@ -98,7 +98,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.avro#avro-ipc;1.7.7 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.twitter#chill_2.11;0.8.4 [compile->default(compile)]
 [info] Resolving com.twitter#chill_2.11;0.8.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78fd4f85
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4760ee11
 [debug] sbt-chain: module revision found in cache: com.twitter#chill_2.11;0.8.4
 [debug] 	found com.twitter#chill_2.11;0.8.4 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.twitter#chill_2.11;0.8.4 [compile->runtime]
@@ -106,7 +106,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.twitter#chill_2.11;0.8.4 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.twitter#chill-java;0.8.4 [compile->default(compile)]
 [info] Resolving com.twitter#chill-java;0.8.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@441c6b2b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b414029
 [debug] sbt-chain: module revision found in cache: com.twitter#chill-java;0.8.4
 [debug] 	found com.twitter#chill-java;0.8.4 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.twitter#chill-java;0.8.4 [compile->runtime]
@@ -114,7 +114,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.twitter#chill-java;0.8.4 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.esotericsoftware#kryo-shaded;3.0.3 [compile->default(compile)]
 [info] Resolving com.esotericsoftware#kryo-shaded;3.0.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@657dff19
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@32813ea4
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware#kryo-shaded;3.0.3
 [debug] 	found com.esotericsoftware#kryo-shaded;3.0.3 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.esotericsoftware#kryo-shaded;3.0.3 [compile->runtime]
@@ -122,7 +122,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.esotericsoftware#kryo-shaded;3.0.3 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.esotericsoftware#minlog;1.3.0 [compile->default(compile)]
 [info] Resolving com.esotericsoftware#minlog;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@12c174ff
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ba15f44
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware#minlog;1.3.0
 [debug] 	found com.esotericsoftware#minlog;1.3.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.esotericsoftware#minlog;1.3.0 [compile->runtime]
@@ -130,7 +130,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.esotericsoftware#minlog;1.3.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.objenesis#objenesis;2.1 [compile->default(compile)]
 [info] Resolving org.objenesis#objenesis;2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1fd0c81
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@756a5367
 [debug] sbt-chain: module revision found in cache: org.objenesis#objenesis;2.1
 [debug] 	found org.objenesis#objenesis;2.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.objenesis#objenesis;2.1 [compile->runtime]
@@ -138,7 +138,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.objenesis#objenesis;2.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.xbean#xbean-asm5-shaded;4.4 [compile->default(compile)]
 [info] Resolving org.apache.xbean#xbean-asm5-shaded;4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78b6e663
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4cb14b74
 [debug] sbt-chain: module revision found in cache: org.apache.xbean#xbean-asm5-shaded;4.4
 [debug] 	found org.apache.xbean#xbean-asm5-shaded;4.4 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.xbean#xbean-asm5-shaded;4.4 [compile->runtime]
@@ -146,7 +146,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.xbean#xbean-asm5-shaded;4.4 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-client;2.6.5 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-client;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f1e536d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10fd269d
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-client;2.6.5
 [debug] 	found org.apache.hadoop#hadoop-client;2.6.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-client;2.6.5 [compile->runtime]
@@ -154,7 +154,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-client;2.6.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-common;2.6.5 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-common;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50feb51f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@289de294
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-common;2.6.5
 [debug] 	found org.apache.hadoop#hadoop-common;2.6.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-common;2.6.5 [compile->runtime]
@@ -162,7 +162,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-common;2.6.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-annotations;2.6.5 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-annotations;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27e69a81
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cd192f1
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-annotations;2.6.5
 [debug] 	found org.apache.hadoop#hadoop-annotations;2.6.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-annotations;2.6.5 [compile->runtime]
@@ -170,7 +170,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-annotations;2.6.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.google.guava#guava;11.0.2 [compile->default(compile)]
 [info] Resolving com.google.guava#guava;11.0.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@397ef6c7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26a5265e
 [debug] sbt-chain: module revision found in cache: com.google.guava#guava;11.0.2
 [debug] 	found com.google.guava#guava;11.0.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.google.guava#guava;11.0.2 [compile->runtime]
@@ -178,7 +178,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.google.guava#guava;11.0.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-cli#commons-cli;1.2 [compile->default(compile)]
 [info] Resolving commons-cli#commons-cli;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e4c9fa0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b2842
 [debug] sbt-chain: module revision found in cache: commons-cli#commons-cli;1.2
 [debug] 	found commons-cli#commons-cli;1.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-cli#commons-cli;1.2 [compile->runtime]
@@ -186,7 +186,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-cli#commons-cli;1.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-httpclient#commons-httpclient;3.1 [compile->default(compile)]
 [info] Resolving commons-httpclient#commons-httpclient;3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@771df564
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@546e365c
 [debug] sbt-chain: module revision found in cache: commons-httpclient#commons-httpclient;3.1
 [debug] 	found commons-httpclient#commons-httpclient;3.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-httpclient#commons-httpclient;3.1 [compile->runtime]
@@ -194,7 +194,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-httpclient#commons-httpclient;3.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-io#commons-io;2.4 [compile->default(compile)]
 [info] Resolving commons-io#commons-io;2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37874cf1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@65f4fff6
 [debug] sbt-chain: module revision found in cache: commons-io#commons-io;2.4
 [debug] 	found commons-io#commons-io;2.4 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-io#commons-io;2.4 [compile->runtime]
@@ -202,7 +202,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-io#commons-io;2.4 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-collections#commons-collections;3.2.2 [compile->default(compile)]
 [info] Resolving commons-collections#commons-collections;3.2.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2083851b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d5040a4
 [debug] sbt-chain: module revision found in cache: commons-collections#commons-collections;3.2.2
 [debug] 	found commons-collections#commons-collections;3.2.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-collections#commons-collections;3.2.2 [compile->runtime]
@@ -210,7 +210,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-collections#commons-collections;3.2.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->default(compile)]
 [info] Resolving log4j#log4j;1.2.17 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77d0b6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2bfa8cd5
 [debug] sbt-chain: module revision found in cache: log4j#log4j;1.2.17
 [debug] 	found log4j#log4j;1.2.17 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->runtime]
@@ -218,7 +218,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-lang#commons-lang;2.6 [compile->default(compile)]
 [info] Resolving commons-lang#commons-lang;2.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@330c892a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3078346c
 [debug] sbt-chain: module revision found in cache: commons-lang#commons-lang;2.6
 [debug] 	found commons-lang#commons-lang;2.6 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-lang#commons-lang;2.6 [compile->runtime]
@@ -226,7 +226,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-lang#commons-lang;2.6 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-configuration#commons-configuration;1.6 [compile->default(compile)]
 [info] Resolving commons-configuration#commons-configuration;1.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e7f6638
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71d86a16
 [debug] sbt-chain: module revision found in cache: commons-configuration#commons-configuration;1.6
 [debug] 	found commons-configuration#commons-configuration;1.6 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-configuration#commons-configuration;1.6 [compile->runtime]
@@ -234,7 +234,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-configuration#commons-configuration;1.6 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-digester#commons-digester;1.8 [compile->default(compile)]
 [info] Resolving commons-digester#commons-digester;1.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6710be69
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56bebbfb
 [debug] sbt-chain: module revision found in cache: commons-digester#commons-digester;1.8
 [debug] 	found commons-digester#commons-digester;1.8 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-digester#commons-digester;1.8 [compile->runtime]
@@ -242,7 +242,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-digester#commons-digester;1.8 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-beanutils#commons-beanutils;1.7.0 [compile->default(compile)]
 [info] Resolving commons-beanutils#commons-beanutils;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b061821
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@291a1de5
 [debug] sbt-chain: module revision found in cache: commons-beanutils#commons-beanutils;1.7.0
 [debug] 	found commons-beanutils#commons-beanutils;1.7.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-beanutils#commons-beanutils;1.7.0 [compile->runtime]
@@ -250,7 +250,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-beanutils#commons-beanutils;1.7.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.google.code.gson#gson;2.2.4 [compile->default(compile)]
 [info] Resolving com.google.code.gson#gson;2.2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5cde4c93
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d9c115f
 [debug] sbt-chain: module revision found in cache: com.google.code.gson#gson;2.2.4
 [debug] 	found com.google.code.gson#gson;2.2.4 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.google.code.gson#gson;2.2.4 [compile->runtime]
@@ -258,7 +258,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.google.code.gson#gson;2.2.4 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-auth;2.6.5 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-auth;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@565bcdd6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7726a39f
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-auth;2.6.5
 [debug] 	found org.apache.hadoop#hadoop-auth;2.6.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-auth;2.6.5 [compile->runtime]
@@ -266,7 +266,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-auth;2.6.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.directory.server#apacheds-kerberos-codec;2.0.0-M15 [compile->default(compile)]
 [info] Resolving org.apache.directory.server#apacheds-kerberos-codec;2.0.0-M15 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c8a40a5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@603f3163
 [debug] sbt-chain: module revision found in cache: org.apache.directory.server#apacheds-kerberos-codec;2.0.0-M15
 [debug] 	found org.apache.directory.server#apacheds-kerberos-codec;2.0.0-M15 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.directory.server#apacheds-kerberos-codec;2.0.0-M15 [compile->runtime]
@@ -274,7 +274,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.directory.server#apacheds-kerberos-codec;2.0.0-M15 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.directory.server#apacheds-i18n;2.0.0-M15 [compile->default(compile)]
 [info] Resolving org.apache.directory.server#apacheds-i18n;2.0.0-M15 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4afbd7c7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15d2e64f
 [debug] sbt-chain: module revision found in cache: org.apache.directory.server#apacheds-i18n;2.0.0-M15
 [debug] 	found org.apache.directory.server#apacheds-i18n;2.0.0-M15 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.directory.server#apacheds-i18n;2.0.0-M15 [compile->runtime]
@@ -282,7 +282,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.directory.server#apacheds-i18n;2.0.0-M15 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.directory.api#api-asn1-api;1.0.0-M20 [compile->default(compile)]
 [info] Resolving org.apache.directory.api#api-asn1-api;1.0.0-M20 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1acbfe29
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1497b99b
 [debug] sbt-chain: module revision found in cache: org.apache.directory.api#api-asn1-api;1.0.0-M20
 [debug] 	found org.apache.directory.api#api-asn1-api;1.0.0-M20 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.directory.api#api-asn1-api;1.0.0-M20 [compile->runtime]
@@ -290,7 +290,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.directory.api#api-asn1-api;1.0.0-M20 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.directory.api#api-util;1.0.0-M20 [compile->default(compile)]
 [info] Resolving org.apache.directory.api#api-util;1.0.0-M20 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@580394ec
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2262aca0
 [debug] sbt-chain: module revision found in cache: org.apache.directory.api#api-util;1.0.0-M20
 [debug] 	found org.apache.directory.api#api-util;1.0.0-M20 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.directory.api#api-util;1.0.0-M20 [compile->runtime]
@@ -298,7 +298,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.directory.api#api-util;1.0.0-M20 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.curator#curator-framework;2.6.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-framework;2.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6bc8a64b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@79b8f647
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-framework;2.6.0
 [debug] 	found org.apache.curator#curator-framework;2.6.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.curator#curator-framework;2.6.0 [compile->runtime]
@@ -306,7 +306,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.curator#curator-framework;2.6.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.curator#curator-client;2.6.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-client;2.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67a17d1d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72b91ae7
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-client;2.6.0
 [debug] 	found org.apache.curator#curator-client;2.6.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.curator#curator-client;2.6.0 [compile->runtime]
@@ -314,7 +314,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.curator#curator-client;2.6.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.zookeeper#zookeeper;3.4.6 [compile->default(compile)]
 [info] Resolving org.apache.zookeeper#zookeeper;3.4.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@668c8a1a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5957e54f
 [debug] sbt-chain: module revision found in cache: org.apache.zookeeper#zookeeper;3.4.6
 [debug] 	found org.apache.zookeeper#zookeeper;3.4.6 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.zookeeper#zookeeper;3.4.6 [compile->runtime]
@@ -322,7 +322,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.zookeeper#zookeeper;3.4.6 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->jline#jline;0.9.94 [compile->default(compile)]
 [info] Resolving jline#jline;0.9.94 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@12373f73
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2dd0261
 [debug] sbt-chain: module revision found in cache: jline#jline;0.9.94
 [debug] 	found jline#jline;0.9.94 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->jline#jline;0.9.94 [compile->runtime]
@@ -330,7 +330,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->jline#jline;0.9.94 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.curator#curator-recipes;2.6.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-recipes;2.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@291ea8b0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5133a40
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-recipes;2.6.0
 [debug] 	found org.apache.curator#curator-recipes;2.6.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.curator#curator-recipes;2.6.0 [compile->runtime]
@@ -338,7 +338,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.curator#curator-recipes;2.6.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.htrace#htrace-core;3.0.4 [compile->default(compile)]
 [info] Resolving org.htrace#htrace-core;3.0.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7fff87e1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27d05c72
 [debug] sbt-chain: module revision found in cache: org.htrace#htrace-core;3.0.4
 [debug] 	found org.htrace#htrace-core;3.0.4 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.htrace#htrace-core;3.0.4 [compile->runtime]
@@ -346,7 +346,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.htrace#htrace-core;3.0.4 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-hdfs;2.6.5 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-hdfs;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@104a0a6a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ca3a402
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-hdfs;2.6.5
 [debug] 	found org.apache.hadoop#hadoop-hdfs;2.6.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-hdfs;2.6.5 [compile->runtime]
@@ -354,7 +354,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-hdfs;2.6.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.mortbay.jetty#jetty-util;6.1.26 [compile->default(compile)]
 [info] Resolving org.mortbay.jetty#jetty-util;6.1.26 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b0a7337
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a352c8c
 [debug] sbt-chain: module revision found in cache: org.mortbay.jetty#jetty-util;6.1.26
 [debug] 	found org.mortbay.jetty#jetty-util;6.1.26 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.mortbay.jetty#jetty-util;6.1.26 [compile->runtime]
@@ -362,7 +362,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.mortbay.jetty#jetty-util;6.1.26 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->xml-apis#xml-apis;1.3.04 [compile->default(compile)]
 [info] Resolving xml-apis#xml-apis;1.3.04 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7319b1c0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a03d1cd
 [debug] sbt-chain: module revision found in cache: xml-apis#xml-apis;1.3.04
 [debug] 	found xml-apis#xml-apis;1.3.04 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->xml-apis#xml-apis;1.3.04 [compile->runtime]
@@ -370,7 +370,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->xml-apis#xml-apis;1.3.04 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-app;2.6.5 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-app;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31f5163e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49ff809
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-app;2.6.5
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-app;2.6.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-app;2.6.5 [compile->runtime]
@@ -378,7 +378,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-app;2.6.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-common;2.6.5 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-common;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5cafea7c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40720286
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-common;2.6.5
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-common;2.6.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-common;2.6.5 [compile->runtime]
@@ -386,7 +386,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-common;2.6.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-common;2.6.5 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-common;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c8630da
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54691988
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-common;2.6.5
 [debug] 	found org.apache.hadoop#hadoop-yarn-common;2.6.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-common;2.6.5 [compile->runtime]
@@ -394,7 +394,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-common;2.6.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-api;2.6.5 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-api;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d336d51
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ae4d7de
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-api;2.6.5
 [debug] 	found org.apache.hadoop#hadoop-yarn-api;2.6.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-api;2.6.5 [compile->runtime]
@@ -402,7 +402,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-api;2.6.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.jackson#jackson-jaxrs;1.9.13 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-jaxrs;1.9.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@107bb330
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49ccad43
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-jaxrs;1.9.13
 [debug] 	found org.codehaus.jackson#jackson-jaxrs;1.9.13 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.jackson#jackson-jaxrs;1.9.13 [compile->runtime]
@@ -410,7 +410,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.jackson#jackson-jaxrs;1.9.13 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.jackson#jackson-xc;1.9.13 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-xc;1.9.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cd4144a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3aa2a5f2
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-xc;1.9.13
 [debug] 	found org.codehaus.jackson#jackson-xc;1.9.13 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.jackson#jackson-xc;1.9.13 [compile->runtime]
@@ -418,7 +418,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.jackson#jackson-xc;1.9.13 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.google.inject#guice;3.0 [compile->default(compile)]
 [info] Resolving com.google.inject#guice;3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42fed1f7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39158a17
 [debug] sbt-chain: module revision found in cache: com.google.inject#guice;3.0
 [debug] 	found com.google.inject#guice;3.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.google.inject#guice;3.0 [compile->runtime]
@@ -426,7 +426,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.google.inject#guice;3.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->default(compile)]
 [info] Resolving javax.inject#javax.inject;1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@144176e5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a76683b
 [debug] sbt-chain: module revision found in cache: javax.inject#javax.inject;1
 [debug] 	found javax.inject#javax.inject;1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->runtime]
@@ -434,7 +434,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->default(compile)]
 [info] Resolving aopalliance#aopalliance;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d89a833
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a44015
 [debug] sbt-chain: module revision found in cache: aopalliance#aopalliance;1.0
 [debug] 	found aopalliance#aopalliance;1.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->runtime]
@@ -442,7 +442,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->default(compile)]
 [info] Resolving org.sonatype.sisu.inject#cglib;2.2.1-v20090111 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1944cb9d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43bbcfc
 [debug] sbt-chain: module revision found in cache: org.sonatype.sisu.inject#cglib;2.2.1-v20090111
 [debug] 	found org.sonatype.sisu.inject#cglib;2.2.1-v20090111 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->runtime]
@@ -450,7 +450,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-client;2.6.5 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-client;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2bfba992
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b0c262f
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-client;2.6.5
 [debug] 	found org.apache.hadoop#hadoop-yarn-client;2.6.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-client;2.6.5 [compile->runtime]
@@ -458,7 +458,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-client;2.6.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-core;2.6.5 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-core;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@58704f49
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b915385
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-core;2.6.5
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-core;2.6.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-core;2.6.5 [compile->runtime]
@@ -466,7 +466,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-core;2.6.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.6.5 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-common;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45a9309e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7dde9c13
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-server-common;2.6.5
 [debug] 	found org.apache.hadoop#hadoop-yarn-server-common;2.6.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.6.5 [compile->runtime]
@@ -474,7 +474,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.6.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->default(compile)]
 [info] Resolving org.fusesource.leveldbjni#leveldbjni-all;1.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@273ae9ed
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5cc91b61
 [debug] sbt-chain: module revision found in cache: org.fusesource.leveldbjni#leveldbjni-all;1.8
 [debug] 	found org.fusesource.leveldbjni#leveldbjni-all;1.8 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->runtime]
@@ -482,7 +482,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.6.5 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1936b66d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20fd31e3
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.6.5
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.6.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.6.5 [compile->runtime]
@@ -490,7 +490,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.6.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.6.5 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50d0528d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f8849b3
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.6.5
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.6.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.6.5 [compile->runtime]
@@ -498,7 +498,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.6.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-launcher_2.11;2.3.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-launcher_2.11;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60f92c8f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@576062f6
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-launcher_2.11;2.3.1
 [debug] 	found org.apache.spark#spark-launcher_2.11;2.3.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-launcher_2.11;2.3.1 [compile->runtime]
@@ -506,7 +506,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-launcher_2.11;2.3.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-tags_2.11;2.3.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-tags_2.11;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e968b51
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33f3fe44
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-tags_2.11;2.3.1
 [debug] 	found org.apache.spark#spark-tags_2.11;2.3.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-tags_2.11;2.3.1 [compile->runtime]
@@ -514,7 +514,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-tags_2.11;2.3.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.spark-project.spark#unused;1.0.0 [compile->default(compile)]
 [info] Resolving org.spark-project.spark#unused;1.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c378250
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1092eb19
 [debug] sbt-chain: module revision found in cache: org.spark-project.spark#unused;1.0.0
 [debug] 	found org.spark-project.spark#unused;1.0.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.spark-project.spark#unused;1.0.0 [compile->runtime]
@@ -522,7 +522,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.spark-project.spark#unused;1.0.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-kvstore_2.11;2.3.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-kvstore_2.11;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ad1a590
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6bc73e16
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-kvstore_2.11;2.3.1
 [debug] 	found org.apache.spark#spark-kvstore_2.11;2.3.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-kvstore_2.11;2.3.1 [compile->runtime]
@@ -530,7 +530,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-kvstore_2.11;2.3.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.6.7.1 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-databind;2.6.7.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11d78e8c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ab3f2dc
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-databind;2.6.7.1
 [debug] 	found com.fasterxml.jackson.core#jackson-databind;2.6.7.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.6.7.1 [compile->runtime]
@@ -538,7 +538,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.6.7.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.6.7 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-annotations;2.6.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@214df3cf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3464a3b3
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-annotations;2.6.7
 [debug] 	found com.fasterxml.jackson.core#jackson-annotations;2.6.7 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.6.7 [compile->runtime]
@@ -546,7 +546,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.6.7 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-network-common_2.11;2.3.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-network-common_2.11;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60fb7479
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c8d9eff
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-network-common_2.11;2.3.1
 [debug] 	found org.apache.spark#spark-network-common_2.11;2.3.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-network-common_2.11;2.3.1 [compile->runtime]
@@ -554,7 +554,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-network-common_2.11;2.3.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.netty#netty-all;4.1.17.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-all;4.1.17.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@62d0faed
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@452a7638
 [debug] sbt-chain: module revision found in cache: io.netty#netty-all;4.1.17.Final
 [debug] 	found io.netty#netty-all;4.1.17.Final in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.netty#netty-all;4.1.17.Final [compile->runtime]
@@ -562,7 +562,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.netty#netty-all;4.1.17.Final [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.commons#commons-lang3;3.5 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-lang3;3.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21d3efd4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4266de89
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-lang3;3.5
 [debug] 	found org.apache.commons#commons-lang3;3.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.commons#commons-lang3;3.5 [compile->runtime]
@@ -570,7 +570,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.commons#commons-lang3;3.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.dropwizard.metrics#metrics-core;3.1.5 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-core;3.1.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c9124cb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@297c877e
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-core;3.1.5
 [debug] 	found io.dropwizard.metrics#metrics-core;3.1.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.dropwizard.metrics#metrics-core;3.1.5 [compile->runtime]
@@ -578,7 +578,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.dropwizard.metrics#metrics-core;3.1.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.commons#commons-crypto;1.0.0 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-crypto;1.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@195bd2c5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1965f7c5
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-crypto;1.0.0
 [debug] 	found org.apache.commons#commons-crypto;1.0.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.commons#commons-crypto;1.0.0 [compile->runtime]
@@ -586,7 +586,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.commons#commons-crypto;1.0.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-network-shuffle_2.11;2.3.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-network-shuffle_2.11;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25640d38
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11d54d0d
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-network-shuffle_2.11;2.3.1
 [debug] 	found org.apache.spark#spark-network-shuffle_2.11;2.3.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-network-shuffle_2.11;2.3.1 [compile->runtime]
@@ -594,7 +594,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-network-shuffle_2.11;2.3.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-unsafe_2.11;2.3.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-unsafe_2.11;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5be39706
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a58c36c
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-unsafe_2.11;2.3.1
 [debug] 	found org.apache.spark#spark-unsafe_2.11;2.3.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-unsafe_2.11;2.3.1 [compile->runtime]
@@ -602,7 +602,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-unsafe_2.11;2.3.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->net.java.dev.jets3t#jets3t;0.9.4 [compile->default(compile)]
 [info] Resolving net.java.dev.jets3t#jets3t;0.9.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21d19330
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@488667f6
 [debug] sbt-chain: module revision found in cache: net.java.dev.jets3t#jets3t;0.9.4
 [debug] 	found net.java.dev.jets3t#jets3t;0.9.4 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->net.java.dev.jets3t#jets3t;0.9.4 [compile->runtime]
@@ -610,7 +610,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->net.java.dev.jets3t#jets3t;0.9.4 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-codec#commons-codec;1.11 [compile->default(compile)]
 [info] Resolving commons-codec#commons-codec;1.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@29063c7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2bf43d88
 [debug] sbt-chain: module revision found in cache: commons-codec#commons-codec;1.11
 [debug] 	found commons-codec#commons-codec;1.11 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-codec#commons-codec;1.11 [compile->runtime]
@@ -618,7 +618,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-codec#commons-codec;1.11 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.activation#activation;1.1.1 [compile->default(compile)]
 [info] Resolving javax.activation#activation;1.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@273862b6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a040275
 [debug] sbt-chain: module revision found in cache: javax.activation#activation;1.1.1
 [debug] 	found javax.activation#activation;1.1.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.activation#activation;1.1.1 [compile->runtime]
@@ -626,7 +626,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.activation#activation;1.1.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.bouncycastle#bcprov-jdk15on;1.52 [compile->default(compile)]
 [info] Resolving org.bouncycastle#bcprov-jdk15on;1.52 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64b48949
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68abc32a
 [debug] sbt-chain: module revision found in cache: org.bouncycastle#bcprov-jdk15on;1.52
 [debug] 	found org.bouncycastle#bcprov-jdk15on;1.52 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.bouncycastle#bcprov-jdk15on;1.52 [compile->runtime]
@@ -634,7 +634,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.bouncycastle#bcprov-jdk15on;1.52 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.jamesmurty.utils#java-xmlbuilder;1.1 [compile->default(compile)]
 [info] Resolving com.jamesmurty.utils#java-xmlbuilder;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13cfe01b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ad79a1e
 [debug] sbt-chain: module revision found in cache: com.jamesmurty.utils#java-xmlbuilder;1.1
 [debug] 	found com.jamesmurty.utils#java-xmlbuilder;1.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.jamesmurty.utils#java-xmlbuilder;1.1 [compile->runtime]
@@ -642,7 +642,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.jamesmurty.utils#java-xmlbuilder;1.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->net.iharder#base64;2.3.8 [compile->default(compile)]
 [info] Resolving net.iharder#base64;2.3.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6999ec49
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ab7aec8
 [debug] sbt-chain: module revision found in cache: net.iharder#base64;2.3.8
 [debug] 	found net.iharder#base64;2.3.8 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->net.iharder#base64;2.3.8 [compile->runtime]
@@ -650,7 +650,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->net.iharder#base64;2.3.8 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.servlet#javax.servlet-api;3.1.0 [compile->default(compile)]
 [info] Resolving javax.servlet#javax.servlet-api;3.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cde6708
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@380e6c0a
 [debug] sbt-chain: module revision found in cache: javax.servlet#javax.servlet-api;3.1.0
 [debug] 	found javax.servlet#javax.servlet-api;3.1.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.servlet#javax.servlet-api;3.1.0 [compile->runtime]
@@ -658,7 +658,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.servlet#javax.servlet-api;3.1.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.commons#commons-math3;3.4.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-math3;3.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37b27895
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a83b235
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math3;3.4.1
 [debug] 	found org.apache.commons#commons-math3;3.4.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.commons#commons-math3;3.4.1 [compile->runtime]
@@ -666,7 +666,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.commons#commons-math3;3.4.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.16 [compile->default(compile)]
 [info] Resolving org.slf4j#jul-to-slf4j;1.7.16 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3aab2b8b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d26c4e7
 [debug] sbt-chain: module revision found in cache: org.slf4j#jul-to-slf4j;1.7.16
 [debug] 	found org.slf4j#jul-to-slf4j;1.7.16 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.16 [compile->runtime]
@@ -674,7 +674,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.16 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.16 [compile->default(compile)]
 [info] Resolving org.slf4j#jcl-over-slf4j;1.7.16 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ca960d3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56d91ec8
 [debug] sbt-chain: module revision found in cache: org.slf4j#jcl-over-slf4j;1.7.16
 [debug] 	found org.slf4j#jcl-over-slf4j;1.7.16 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.16 [compile->runtime]
@@ -682,7 +682,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.16 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.16 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-log4j12;1.7.16 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c90bb45
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@73b25ddd
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-log4j12;1.7.16
 [debug] 	found org.slf4j#slf4j-log4j12;1.7.16 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.16 [compile->runtime]
@@ -690,7 +690,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.16 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.ning#compress-lzf;1.0.3 [compile->default(compile)]
 [info] Resolving com.ning#compress-lzf;1.0.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@561355f4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d08ea40
 [debug] sbt-chain: module revision found in cache: com.ning#compress-lzf;1.0.3
 [debug] 	found com.ning#compress-lzf;1.0.3 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.ning#compress-lzf;1.0.3 [compile->runtime]
@@ -698,7 +698,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.ning#compress-lzf;1.0.3 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.xerial.snappy#snappy-java;1.1.2.6 [compile->default(compile)]
 [info] Resolving org.xerial.snappy#snappy-java;1.1.2.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d46473
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45063c3
 [debug] sbt-chain: module revision found in cache: org.xerial.snappy#snappy-java;1.1.2.6
 [debug] 	found org.xerial.snappy#snappy-java;1.1.2.6 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.xerial.snappy#snappy-java;1.1.2.6 [compile->runtime]
@@ -706,7 +706,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.xerial.snappy#snappy-java;1.1.2.6 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.lz4#lz4-java;1.4.0 [compile->default(compile)]
 [info] Resolving org.lz4#lz4-java;1.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@326c5387
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51e2961d
 [debug] sbt-chain: module revision found in cache: org.lz4#lz4-java;1.4.0
 [debug] 	found org.lz4#lz4-java;1.4.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.lz4#lz4-java;1.4.0 [compile->runtime]
@@ -714,7 +714,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.lz4#lz4-java;1.4.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.github.luben#zstd-jni;1.3.2-2 [compile->default(compile)]
 [info] Resolving com.github.luben#zstd-jni;1.3.2-2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ebd6975
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a8252aa
 [debug] sbt-chain: module revision found in cache: com.github.luben#zstd-jni;1.3.2-2
 [debug] 	found com.github.luben#zstd-jni;1.3.2-2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.github.luben#zstd-jni;1.3.2-2 [compile->runtime]
@@ -722,7 +722,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.github.luben#zstd-jni;1.3.2-2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.roaringbitmap#RoaringBitmap;0.5.11 [compile->default(compile)]
 [info] Resolving org.roaringbitmap#RoaringBitmap;0.5.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b7a75d0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4473759c
 [debug] sbt-chain: module revision found in cache: org.roaringbitmap#RoaringBitmap;0.5.11
 [debug] 	found org.roaringbitmap#RoaringBitmap;0.5.11 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.roaringbitmap#RoaringBitmap;0.5.11 [compile->runtime]
@@ -730,7 +730,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.roaringbitmap#RoaringBitmap;0.5.11 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-net#commons-net;2.2 [compile->default(compile)]
 [info] Resolving commons-net#commons-net;2.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b487b06
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ea1a8ae
 [debug] sbt-chain: module revision found in cache: commons-net#commons-net;2.2
 [debug] 	found commons-net#commons-net;2.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-net#commons-net;2.2 [compile->runtime]
@@ -738,7 +738,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-net#commons-net;2.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.json4s#json4s-jackson_2.11;3.2.11 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-jackson_2.11;3.2.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@262eff83
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@505db33
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-jackson_2.11;3.2.11
 [debug] 	found org.json4s#json4s-jackson_2.11;3.2.11 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.json4s#json4s-jackson_2.11;3.2.11 [compile->runtime]
@@ -746,7 +746,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.json4s#json4s-jackson_2.11;3.2.11 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.json4s#json4s-core_2.11;3.2.11 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-core_2.11;3.2.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@634dc1e8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4836c6e8
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-core_2.11;3.2.11
 [debug] 	found org.json4s#json4s-core_2.11;3.2.11 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.json4s#json4s-core_2.11;3.2.11 [compile->runtime]
@@ -754,7 +754,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.json4s#json4s-core_2.11;3.2.11 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.json4s#json4s-ast_2.11;3.2.11 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-ast_2.11;3.2.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6440fce0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4691f03a
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-ast_2.11;3.2.11
 [debug] 	found org.json4s#json4s-ast_2.11;3.2.11 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.json4s#json4s-ast_2.11;3.2.11 [compile->runtime]
@@ -762,7 +762,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.json4s#json4s-ast_2.11;3.2.11 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scala-lang#scalap;2.11.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scalap;2.11.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27f70b5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@731ac080
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scalap;2.11.0
 [debug] 	found org.scala-lang#scalap;2.11.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scala-lang#scalap;2.11.0 [compile->runtime]
@@ -770,7 +770,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scala-lang#scalap;2.11.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-compiler;2.11.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@755b9504
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44fce944
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.11.0
 [debug] 	found org.scala-lang#scala-compiler;2.11.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.0 [compile->runtime]
@@ -778,7 +778,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@185c4dac
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ae46fb8
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.1
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->runtime]
@@ -786,7 +786,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.core#jersey-client;2.22.2 [compile->default(compile)]
 [info] Resolving org.glassfish.jersey.core#jersey-client;2.22.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d87d336
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69d147ab
 [debug] sbt-chain: module revision found in cache: org.glassfish.jersey.core#jersey-client;2.22.2
 [debug] 	found org.glassfish.jersey.core#jersey-client;2.22.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.core#jersey-client;2.22.2 [compile->runtime]
@@ -794,7 +794,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.core#jersey-client;2.22.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.ws.rs#javax.ws.rs-api;2.0.1 [compile->default(compile)]
 [info] Resolving javax.ws.rs#javax.ws.rs-api;2.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2319ae79
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50dd8b90
 [debug] sbt-chain: module revision found in cache: javax.ws.rs#javax.ws.rs-api;2.0.1
 [debug] 	found javax.ws.rs#javax.ws.rs-api;2.0.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.ws.rs#javax.ws.rs-api;2.0.1 [compile->runtime]
@@ -802,7 +802,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.ws.rs#javax.ws.rs-api;2.0.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.core#jersey-common;2.22.2 [compile->default(compile)]
 [info] Resolving org.glassfish.jersey.core#jersey-common;2.22.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4611bb27
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f5099f1
 [debug] sbt-chain: module revision found in cache: org.glassfish.jersey.core#jersey-common;2.22.2
 [debug] 	found org.glassfish.jersey.core#jersey-common;2.22.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.core#jersey-common;2.22.2 [compile->runtime]
@@ -810,7 +810,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.core#jersey-common;2.22.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.annotation#javax.annotation-api;1.2 [compile->default(compile)]
 [info] Resolving javax.annotation#javax.annotation-api;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@148c7d98
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4cdc658
 [debug] sbt-chain: module revision found in cache: javax.annotation#javax.annotation-api;1.2
 [debug] 	found javax.annotation#javax.annotation-api;1.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.annotation#javax.annotation-api;1.2 [compile->runtime]
@@ -818,7 +818,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.annotation#javax.annotation-api;1.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.bundles.repackaged#jersey-guava;2.22.2 [compile->default(compile)]
 [info] Resolving org.glassfish.jersey.bundles.repackaged#jersey-guava;2.22.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c580c62
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a6c1491
 [debug] sbt-chain: module revision found in cache: org.glassfish.jersey.bundles.repackaged#jersey-guava;2.22.2
 [debug] 	found org.glassfish.jersey.bundles.repackaged#jersey-guava;2.22.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.bundles.repackaged#jersey-guava;2.22.2 [compile->runtime]
@@ -826,7 +826,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.bundles.repackaged#jersey-guava;2.22.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.hk2#hk2-api;2.4.0-b34 [compile->default(compile)]
 [info] Resolving org.glassfish.hk2#hk2-api;2.4.0-b34 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35e70d97
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2884cdac
 [debug] sbt-chain: module revision found in cache: org.glassfish.hk2#hk2-api;2.4.0-b34
 [debug] 	found org.glassfish.hk2#hk2-api;2.4.0-b34 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.hk2#hk2-api;2.4.0-b34 [compile->runtime]
@@ -834,7 +834,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.hk2#hk2-api;2.4.0-b34 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.hk2#hk2-utils;2.4.0-b34 [compile->default(compile)]
 [info] Resolving org.glassfish.hk2#hk2-utils;2.4.0-b34 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45446463
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c4b9f11
 [debug] sbt-chain: module revision found in cache: org.glassfish.hk2#hk2-utils;2.4.0-b34
 [debug] 	found org.glassfish.hk2#hk2-utils;2.4.0-b34 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.hk2#hk2-utils;2.4.0-b34 [compile->runtime]
@@ -842,7 +842,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.hk2#hk2-utils;2.4.0-b34 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.hk2.external#aopalliance-repackaged;2.4.0-b34 [compile->default(compile)]
 [info] Resolving org.glassfish.hk2.external#aopalliance-repackaged;2.4.0-b34 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13202e51
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@168552fb
 [debug] sbt-chain: module revision found in cache: org.glassfish.hk2.external#aopalliance-repackaged;2.4.0-b34
 [debug] 	found org.glassfish.hk2.external#aopalliance-repackaged;2.4.0-b34 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.hk2.external#aopalliance-repackaged;2.4.0-b34 [compile->runtime]
@@ -850,7 +850,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.hk2.external#aopalliance-repackaged;2.4.0-b34 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.hk2.external#javax.inject;2.4.0-b34 [compile->default(compile)]
 [info] Resolving org.glassfish.hk2.external#javax.inject;2.4.0-b34 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4acb4c43
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5717b0fc
 [debug] sbt-chain: module revision found in cache: org.glassfish.hk2.external#javax.inject;2.4.0-b34
 [debug] 	found org.glassfish.hk2.external#javax.inject;2.4.0-b34 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.hk2.external#javax.inject;2.4.0-b34 [compile->runtime]
@@ -858,7 +858,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.hk2.external#javax.inject;2.4.0-b34 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.hk2#hk2-locator;2.4.0-b34 [compile->default(compile)]
 [info] Resolving org.glassfish.hk2#hk2-locator;2.4.0-b34 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69f3955
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7724fafd
 [debug] sbt-chain: module revision found in cache: org.glassfish.hk2#hk2-locator;2.4.0-b34
 [debug] 	found org.glassfish.hk2#hk2-locator;2.4.0-b34 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.hk2#hk2-locator;2.4.0-b34 [compile->runtime]
@@ -866,7 +866,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.hk2#hk2-locator;2.4.0-b34 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.javassist#javassist;3.18.1-GA [compile->default(compile)]
 [info] Resolving org.javassist#javassist;3.18.1-GA ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78f2ffa3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5007de68
 [debug] sbt-chain: module revision found in cache: org.javassist#javassist;3.18.1-GA
 [debug] 	found org.javassist#javassist;3.18.1-GA in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.javassist#javassist;3.18.1-GA [compile->runtime]
@@ -874,7 +874,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.javassist#javassist;3.18.1-GA [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.hk2#osgi-resource-locator;1.0.1 [compile->default(compile)]
 [info] Resolving org.glassfish.hk2#osgi-resource-locator;1.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28442012
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@214d4a65
 [debug] sbt-chain: module revision found in cache: org.glassfish.hk2#osgi-resource-locator;1.0.1
 [debug] 	found org.glassfish.hk2#osgi-resource-locator;1.0.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.hk2#osgi-resource-locator;1.0.1 [compile->runtime]
@@ -882,7 +882,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.hk2#osgi-resource-locator;1.0.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.core#jersey-server;2.22.2 [compile->default(compile)]
 [info] Resolving org.glassfish.jersey.core#jersey-server;2.22.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e0f4f12
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5cbc46bf
 [debug] sbt-chain: module revision found in cache: org.glassfish.jersey.core#jersey-server;2.22.2
 [debug] 	found org.glassfish.jersey.core#jersey-server;2.22.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.core#jersey-server;2.22.2 [compile->runtime]
@@ -890,7 +890,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.core#jersey-server;2.22.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.media#jersey-media-jaxb;2.22.2 [compile->default(compile)]
 [info] Resolving org.glassfish.jersey.media#jersey-media-jaxb;2.22.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35f73ab6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bb50c34
 [debug] sbt-chain: module revision found in cache: org.glassfish.jersey.media#jersey-media-jaxb;2.22.2
 [debug] 	found org.glassfish.jersey.media#jersey-media-jaxb;2.22.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.media#jersey-media-jaxb;2.22.2 [compile->runtime]
@@ -898,7 +898,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.media#jersey-media-jaxb;2.22.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.validation#validation-api;1.1.0.Final [compile->default(compile)]
 [info] Resolving javax.validation#validation-api;1.1.0.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f5b4626
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d436005
 [debug] sbt-chain: module revision found in cache: javax.validation#validation-api;1.1.0.Final
 [debug] 	found javax.validation#validation-api;1.1.0.Final in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.validation#validation-api;1.1.0.Final [compile->runtime]
@@ -906,7 +906,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.validation#validation-api;1.1.0.Final [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.containers#jersey-container-servlet;2.22.2 [compile->default(compile)]
 [info] Resolving org.glassfish.jersey.containers#jersey-container-servlet;2.22.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3676869d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68005152
 [debug] sbt-chain: module revision found in cache: org.glassfish.jersey.containers#jersey-container-servlet;2.22.2
 [debug] 	found org.glassfish.jersey.containers#jersey-container-servlet;2.22.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.containers#jersey-container-servlet;2.22.2 [compile->runtime]
@@ -914,7 +914,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.containers#jersey-container-servlet;2.22.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.containers#jersey-container-servlet-core;2.22.2 [compile->default(compile)]
 [info] Resolving org.glassfish.jersey.containers#jersey-container-servlet-core;2.22.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@633979d3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56ec6e93
 [debug] sbt-chain: module revision found in cache: org.glassfish.jersey.containers#jersey-container-servlet-core;2.22.2
 [debug] 	found org.glassfish.jersey.containers#jersey-container-servlet-core;2.22.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.containers#jersey-container-servlet-core;2.22.2 [compile->runtime]
@@ -922,7 +922,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish.jersey.containers#jersey-container-servlet-core;2.22.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.netty#netty;3.9.9.Final [compile->default(compile)]
 [info] Resolving io.netty#netty;3.9.9.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@62fa4ecb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@532d0176
 [debug] sbt-chain: module revision found in cache: io.netty#netty;3.9.9.Final
 [debug] 	found io.netty#netty;3.9.9.Final in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.netty#netty;3.9.9.Final [compile->runtime]
@@ -930,7 +930,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.netty#netty;3.9.9.Final [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.clearspring.analytics#stream;2.7.0 [compile->default(compile)]
 [info] Resolving com.clearspring.analytics#stream;2.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d3a4577
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@80bb571
 [debug] sbt-chain: module revision found in cache: com.clearspring.analytics#stream;2.7.0
 [debug] 	found com.clearspring.analytics#stream;2.7.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.clearspring.analytics#stream;2.7.0 [compile->runtime]
@@ -938,7 +938,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.clearspring.analytics#stream;2.7.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.dropwizard.metrics#metrics-jvm;3.1.5 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-jvm;3.1.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b003537
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15f004b9
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-jvm;3.1.5
 [debug] 	found io.dropwizard.metrics#metrics-jvm;3.1.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.dropwizard.metrics#metrics-jvm;3.1.5 [compile->runtime]
@@ -946,7 +946,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.dropwizard.metrics#metrics-jvm;3.1.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.dropwizard.metrics#metrics-json;3.1.5 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-json;3.1.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7fe516b0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44bba181
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-json;3.1.5
 [debug] 	found io.dropwizard.metrics#metrics-json;3.1.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.dropwizard.metrics#metrics-json;3.1.5 [compile->runtime]
@@ -954,7 +954,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.dropwizard.metrics#metrics-json;3.1.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.dropwizard.metrics#metrics-graphite;3.1.5 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-graphite;3.1.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a952f60
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d0ea3ba
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-graphite;3.1.5
 [debug] 	found io.dropwizard.metrics#metrics-graphite;3.1.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.dropwizard.metrics#metrics-graphite;3.1.5 [compile->runtime]
@@ -962,7 +962,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.dropwizard.metrics#metrics-graphite;3.1.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.7.1 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.7.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ca3e80c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37d2fb7d
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.7.1
 [debug] 	found com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.7.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.7.1 [compile->runtime]
@@ -970,7 +970,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.7.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.8 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f7b63cb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3183464a
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.8
 [debug] 	found org.scala-lang#scala-reflect;2.11.8 in sbt-chain
 [debug] 	[2.11.8] org.scala-lang#scala-reflect;2.11.8
@@ -979,7 +979,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.8 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.fasterxml.jackson.module#jackson-module-paranamer;2.7.9 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.module#jackson-module-paranamer;2.7.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@512b18f4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e3e36bc
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.module#jackson-module-paranamer;2.7.9
 [debug] 	found com.fasterxml.jackson.module#jackson-module-paranamer;2.7.9 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.fasterxml.jackson.module#jackson-module-paranamer;2.7.9 [compile->runtime]
@@ -987,7 +987,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.fasterxml.jackson.module#jackson-module-paranamer;2.7.9 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.thoughtworks.paranamer#paranamer;2.8 [compile->default(compile)]
 [info] Resolving com.thoughtworks.paranamer#paranamer;2.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e6b5cd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@789b11d6
 [debug] sbt-chain: module revision found in cache: com.thoughtworks.paranamer#paranamer;2.8
 [debug] 	found com.thoughtworks.paranamer#paranamer;2.8 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.thoughtworks.paranamer#paranamer;2.8 [compile->runtime]
@@ -995,7 +995,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.thoughtworks.paranamer#paranamer;2.8 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.ivy#ivy;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.ivy#ivy;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@63fe84bc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@66b2a4e5
 [debug] sbt-chain: module revision found in cache: org.apache.ivy#ivy;2.4.0
 [debug] 	found org.apache.ivy#ivy;2.4.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.ivy#ivy;2.4.0 [compile->runtime]
@@ -1003,7 +1003,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.ivy#ivy;2.4.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->oro#oro;2.0.8 [compile->default(compile)]
 [info] Resolving oro#oro;2.0.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e60adf9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1072fdf9
 [debug] sbt-chain: module revision found in cache: oro#oro;2.0.8
 [debug] 	found oro#oro;2.0.8 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->oro#oro;2.0.8 [compile->runtime]
@@ -1011,7 +1011,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->oro#oro;2.0.8 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->net.razorvine#pyrolite;4.13 [compile->default(compile)]
 [info] Resolving net.razorvine#pyrolite;4.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20ab2cb6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5bd6934a
 [debug] sbt-chain: module revision found in cache: net.razorvine#pyrolite;4.13
 [debug] 	found net.razorvine#pyrolite;4.13 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->net.razorvine#pyrolite;4.13 [compile->runtime]
@@ -1019,7 +1019,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->net.razorvine#pyrolite;4.13 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->net.sf.py4j#py4j;0.10.7 [compile->default(compile)]
 [info] Resolving net.sf.py4j#py4j;0.10.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b3b9e42
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a013161
 [debug] sbt-chain: module revision found in cache: net.sf.py4j#py4j;0.10.7
 [debug] 	found net.sf.py4j#py4j;0.10.7 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->net.sf.py4j#py4j;0.10.7 [compile->runtime]
@@ -1027,7 +1027,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->net.sf.py4j#py4j;0.10.7 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.6.5 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-nodemanager;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@73de0c70
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ebe4858
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-server-nodemanager;2.6.5
 [debug] 	found org.apache.hadoop#hadoop-yarn-server-nodemanager;2.6.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.6.5 [compile->runtime]
@@ -1035,7 +1035,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.6.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.jettison#jettison;1.1 [compile->default(compile)]
 [info] Resolving org.codehaus.jettison#jettison;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5107cdea
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21d6f363
 [debug] sbt-chain: module revision found in cache: org.codehaus.jettison#jettison;1.1
 [debug] 	found org.codehaus.jettison#jettison;1.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.jettison#jettison;1.1 [compile->runtime]
@@ -1043,7 +1043,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.jettison#jettison;1.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-mllib_2.11;2.3.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-mllib_2.11;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@73d8ce8b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@340aa3a3
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-mllib_2.11;2.3.1
 [debug] 	found org.apache.spark#spark-mllib_2.11;2.3.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-mllib_2.11;2.3.1 [compile->runtime]
@@ -1051,7 +1051,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-mllib_2.11;2.3.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49829bd5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6648e5d8
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4
 [debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->runtime]
@@ -1059,7 +1059,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-sql_2.11;2.3.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-sql_2.11;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13630f8c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@103f7613
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-sql_2.11;2.3.1
 [debug] 	found org.apache.spark#spark-sql_2.11;2.3.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-sql_2.11;2.3.1 [compile->runtime]
@@ -1067,7 +1067,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-sql_2.11;2.3.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.univocity#univocity-parsers;2.5.9 [compile->default(compile)]
 [info] Resolving com.univocity#univocity-parsers;2.5.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38b042b0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@41185442
 [debug] sbt-chain: module revision found in cache: com.univocity#univocity-parsers;2.5.9
 [debug] 	found com.univocity#univocity-parsers;2.5.9 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.univocity#univocity-parsers;2.5.9 [compile->runtime]
@@ -1075,7 +1075,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.univocity#univocity-parsers;2.5.9 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-sketch_2.11;2.3.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-sketch_2.11;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@491ecf6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2fb982fd
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-sketch_2.11;2.3.1
 [debug] 	found org.apache.spark#spark-sketch_2.11;2.3.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-sketch_2.11;2.3.1 [compile->runtime]
@@ -1083,7 +1083,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-sketch_2.11;2.3.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-catalyst_2.11;2.3.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-catalyst_2.11;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35f84ffe
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@32aa8226
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-catalyst_2.11;2.3.1
 [debug] 	found org.apache.spark#spark-catalyst_2.11;2.3.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-catalyst_2.11;2.3.1 [compile->runtime]
@@ -1091,7 +1091,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-catalyst_2.11;2.3.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.janino#janino;3.0.8 [compile->default(compile)]
 [info] Resolving org.codehaus.janino#janino;3.0.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b8b4cbd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d2b3287
 [debug] sbt-chain: module revision found in cache: org.codehaus.janino#janino;3.0.8
 [debug] 	found org.codehaus.janino#janino;3.0.8 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.janino#janino;3.0.8 [compile->runtime]
@@ -1099,7 +1099,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.janino#janino;3.0.8 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.janino#commons-compiler;3.0.8 [compile->default(compile)]
 [info] Resolving org.codehaus.janino#commons-compiler;3.0.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c0c275a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ae9d1c4
 [debug] sbt-chain: module revision found in cache: org.codehaus.janino#commons-compiler;3.0.8
 [debug] 	found org.codehaus.janino#commons-compiler;3.0.8 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.janino#commons-compiler;3.0.8 [compile->runtime]
@@ -1107,7 +1107,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.codehaus.janino#commons-compiler;3.0.8 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.antlr#antlr4-runtime;4.7 [compile->default(compile)]
 [info] Resolving org.antlr#antlr4-runtime;4.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6bcd2a13
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ac1dcc6
 [debug] sbt-chain: module revision found in cache: org.antlr#antlr4-runtime;4.7
 [debug] 	found org.antlr#antlr4-runtime;4.7 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.antlr#antlr4-runtime;4.7 [compile->runtime]
@@ -1115,7 +1115,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.antlr#antlr4-runtime;4.7 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.orc#orc-core;1.4.4 [compile->default(compile)]
 [info] Resolving org.apache.orc#orc-core;1.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@627ee3cf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a933923
 [debug] sbt-chain: module revision found in cache: org.apache.orc#orc-core;1.4.4
 [debug] 	found org.apache.orc#orc-core;1.4.4 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.orc#orc-core;1.4.4 [compile->runtime]
@@ -1123,7 +1123,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.orc#orc-core;1.4.4 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.airlift#aircompressor;0.8 [compile->default(compile)]
 [info] Resolving io.airlift#aircompressor;0.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39c38863
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38095e77
 [debug] sbt-chain: module revision found in cache: io.airlift#aircompressor;0.8
 [debug] 	found io.airlift#aircompressor;0.8 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.airlift#aircompressor;0.8 [compile->runtime]
@@ -1131,7 +1131,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->io.airlift#aircompressor;0.8 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.orc#orc-mapreduce;1.4.4 [compile->default(compile)]
 [info] Resolving org.apache.orc#orc-mapreduce;1.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7af326a9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30510dea
 [debug] sbt-chain: module revision found in cache: org.apache.orc#orc-mapreduce;1.4.4
 [debug] 	found org.apache.orc#orc-mapreduce;1.4.4 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.orc#orc-mapreduce;1.4.4 [compile->runtime]
@@ -1139,7 +1139,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.orc#orc-mapreduce;1.4.4 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.parquet#parquet-column;1.8.3 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-column;1.8.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4629cd2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@349aab9f
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-column;1.8.3
 [debug] 	found org.apache.parquet#parquet-column;1.8.3 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.parquet#parquet-column;1.8.3 [compile->runtime]
@@ -1147,7 +1147,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.parquet#parquet-column;1.8.3 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.parquet#parquet-common;1.8.3 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-common;1.8.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6952bf4b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1352da3d
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-common;1.8.3
 [debug] 	found org.apache.parquet#parquet-common;1.8.3 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.parquet#parquet-common;1.8.3 [compile->runtime]
@@ -1155,7 +1155,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.parquet#parquet-common;1.8.3 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.parquet#parquet-encoding;1.8.3 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-encoding;1.8.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3703daf7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33c50dbd
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-encoding;1.8.3
 [debug] 	found org.apache.parquet#parquet-encoding;1.8.3 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.parquet#parquet-encoding;1.8.3 [compile->runtime]
@@ -1163,7 +1163,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.parquet#parquet-encoding;1.8.3 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.parquet#parquet-hadoop;1.8.3 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-hadoop;1.8.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78ca78ae
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7043b5ba
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-hadoop;1.8.3
 [debug] 	found org.apache.parquet#parquet-hadoop;1.8.3 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.parquet#parquet-hadoop;1.8.3 [compile->runtime]
@@ -1171,7 +1171,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.parquet#parquet-hadoop;1.8.3 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.parquet#parquet-format;2.3.1 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-format;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3cba8b3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@52473a35
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-format;2.3.1
 [debug] 	found org.apache.parquet#parquet-format;2.3.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.parquet#parquet-format;2.3.1 [compile->runtime]
@@ -1179,7 +1179,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.parquet#parquet-format;2.3.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.parquet#parquet-jackson;1.8.3 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-jackson;1.8.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f27944b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2034c8e5
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-jackson;1.8.3
 [debug] 	found org.apache.parquet#parquet-jackson;1.8.3 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.parquet#parquet-jackson;1.8.3 [compile->runtime]
@@ -1187,7 +1187,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.parquet#parquet-jackson;1.8.3 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.arrow#arrow-vector;0.8.0 [compile->default(compile)]
 [info] Resolving org.apache.arrow#arrow-vector;0.8.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30724ca3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@113dbcab
 [debug] sbt-chain: module revision found in cache: org.apache.arrow#arrow-vector;0.8.0
 [debug] 	found org.apache.arrow#arrow-vector;0.8.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.arrow#arrow-vector;0.8.0 [compile->runtime]
@@ -1195,7 +1195,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.arrow#arrow-vector;0.8.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.arrow#arrow-format;0.8.0 [compile->default(compile)]
 [info] Resolving org.apache.arrow#arrow-format;0.8.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f8d9fe2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11d644d0
 [debug] sbt-chain: module revision found in cache: org.apache.arrow#arrow-format;0.8.0
 [debug] 	found org.apache.arrow#arrow-format;0.8.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.arrow#arrow-format;0.8.0 [compile->runtime]
@@ -1203,7 +1203,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.arrow#arrow-format;0.8.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.vlkan#flatbuffers;1.2.0-3f79e055 [compile->default(compile)]
 [info] Resolving com.vlkan#flatbuffers;1.2.0-3f79e055 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13606c6c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@65631299
 [debug] sbt-chain: module revision found in cache: com.vlkan#flatbuffers;1.2.0-3f79e055
 [debug] 	found com.vlkan#flatbuffers;1.2.0-3f79e055 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.vlkan#flatbuffers;1.2.0-3f79e055 [compile->runtime]
@@ -1211,7 +1211,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.vlkan#flatbuffers;1.2.0-3f79e055 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.arrow#arrow-memory;0.8.0 [compile->default(compile)]
 [info] Resolving org.apache.arrow#arrow-memory;0.8.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3872e760
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e0018e4
 [debug] sbt-chain: module revision found in cache: org.apache.arrow#arrow-memory;0.8.0
 [debug] 	found org.apache.arrow#arrow-memory;0.8.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.arrow#arrow-memory;0.8.0 [compile->runtime]
@@ -1219,7 +1219,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.arrow#arrow-memory;0.8.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.google.code.findbugs#jsr305;3.0.2 [compile->default(compile)]
 [info] Resolving com.google.code.findbugs#jsr305;3.0.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1529a2c9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@32af95e8
 [debug] sbt-chain: module revision found in cache: com.google.code.findbugs#jsr305;3.0.2
 [debug] 	found com.google.code.findbugs#jsr305;3.0.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.google.code.findbugs#jsr305;3.0.2 [compile->runtime]
@@ -1227,7 +1227,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.google.code.findbugs#jsr305;3.0.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.25 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.25 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43f7f839
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31cfa5f5
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.25
 [debug] 	found org.slf4j#slf4j-api;1.7.25 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.25 [compile->runtime]
@@ -1235,7 +1235,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.25 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->joda-time#joda-time;2.9.9 [compile->default(compile)]
 [info] Resolving joda-time#joda-time;2.9.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8ac341d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7483b1f6
 [debug] sbt-chain: module revision found in cache: joda-time#joda-time;2.9.9
 [debug] 	found joda-time#joda-time;2.9.9 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->joda-time#joda-time;2.9.9 [compile->runtime]
@@ -1243,7 +1243,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->joda-time#joda-time;2.9.9 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.7.9 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-core;2.7.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@339f3d31
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b3fe0e8
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-core;2.7.9
 [debug] 	found com.fasterxml.jackson.core#jackson-core;2.7.9 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.7.9 [compile->runtime]
@@ -1251,7 +1251,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.7.9 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.carrotsearch#hppc;0.7.2 [compile->default(compile)]
 [info] Resolving com.carrotsearch#hppc;0.7.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3dc1211a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f363552
 [debug] sbt-chain: module revision found in cache: com.carrotsearch#hppc;0.7.2
 [debug] 	found com.carrotsearch#hppc;0.7.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.carrotsearch#hppc;0.7.2 [compile->runtime]
@@ -1259,7 +1259,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.carrotsearch#hppc;0.7.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-graphx_2.11;2.3.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-graphx_2.11;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a1fb545
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@384b7232
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-graphx_2.11;2.3.1
 [debug] 	found org.apache.spark#spark-graphx_2.11;2.3.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-graphx_2.11;2.3.1 [compile->runtime]
@@ -1267,7 +1267,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-graphx_2.11;2.3.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-mllib-local_2.11;2.3.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-mllib-local_2.11;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4886c9d4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@358c38d6
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-mllib-local_2.11;2.3.1
 [debug] 	found org.apache.spark#spark-mllib-local_2.11;2.3.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-mllib-local_2.11;2.3.1 [compile->runtime]
@@ -1275,7 +1275,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.spark#spark-mllib-local_2.11;2.3.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scalanlp#breeze_2.11;0.13.2 [compile->default(compile)]
 [info] Resolving org.scalanlp#breeze_2.11;0.13.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54b1038f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ff27f8c
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze_2.11;0.13.2
 [debug] 	found org.scalanlp#breeze_2.11;0.13.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scalanlp#breeze_2.11;0.13.2 [compile->runtime]
@@ -1283,7 +1283,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scalanlp#breeze_2.11;0.13.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scalanlp#breeze-macros_2.11;0.13.2 [compile->default(compile)]
 [info] Resolving org.scalanlp#breeze-macros_2.11;0.13.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44b1e177
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44a45fdd
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze-macros_2.11;0.13.2
 [debug] 	found org.scalanlp#breeze-macros_2.11;0.13.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scalanlp#breeze-macros_2.11;0.13.2 [compile->runtime]
@@ -1291,7 +1291,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.scalanlp#breeze-macros_2.11;0.13.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.github.fommil.netlib#core;1.1.2 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#core;1.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b882d1d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a7699c9
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#core;1.1.2
 [debug] 	found com.github.fommil.netlib#core;1.1.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.github.fommil.netlib#core;1.1.2 [compile->runtime]
@@ -1299,7 +1299,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.github.fommil.netlib#core;1.1.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->net.sf.opencsv#opencsv;2.3 [compile->default(compile)]
 [info] Resolving net.sf.opencsv#opencsv;2.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ead8b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49da9eb5
 [debug] sbt-chain: module revision found in cache: net.sf.opencsv#opencsv;2.3
 [debug] 	found net.sf.opencsv#opencsv;2.3 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->net.sf.opencsv#opencsv;2.3 [compile->runtime]
@@ -1307,7 +1307,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->net.sf.opencsv#opencsv;2.3 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.github.rwl#jtransforms;2.4.0 [compile->default(compile)]
 [info] Resolving com.github.rwl#jtransforms;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f99fde5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42d1c57d
 [debug] sbt-chain: module revision found in cache: com.github.rwl#jtransforms;2.4.0
 [debug] 	found com.github.rwl#jtransforms;2.4.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.github.rwl#jtransforms;2.4.0 [compile->runtime]
@@ -1315,7 +1315,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.github.rwl#jtransforms;2.4.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.spire-math#spire_2.11;0.13.0 [compile->default(compile)]
 [info] Resolving org.spire-math#spire_2.11;0.13.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6226fe4f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@673b856b
 [debug] sbt-chain: module revision found in cache: org.spire-math#spire_2.11;0.13.0
 [debug] 	found org.spire-math#spire_2.11;0.13.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.spire-math#spire_2.11;0.13.0 [compile->runtime]
@@ -1323,7 +1323,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.spire-math#spire_2.11;0.13.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.spire-math#spire-macros_2.11;0.13.0 [compile->default(compile)]
 [info] Resolving org.spire-math#spire-macros_2.11;0.13.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@281b47a9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6420024
 [debug] sbt-chain: module revision found in cache: org.spire-math#spire-macros_2.11;0.13.0
 [debug] 	found org.spire-math#spire-macros_2.11;0.13.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.spire-math#spire-macros_2.11;0.13.0 [compile->runtime]
@@ -1331,7 +1331,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.spire-math#spire-macros_2.11;0.13.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.typelevel#machinist_2.11;0.6.1 [compile->default(compile)]
 [info] Resolving org.typelevel#machinist_2.11;0.6.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@500cbe7f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10a8bb48
 [debug] sbt-chain: module revision found in cache: org.typelevel#machinist_2.11;0.6.1
 [debug] 	found org.typelevel#machinist_2.11;0.6.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.typelevel#machinist_2.11;0.6.1 [compile->runtime]
@@ -1339,7 +1339,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.typelevel#machinist_2.11;0.6.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.chuusai#shapeless_2.11;2.3.2 [compile->default(compile)]
 [info] Resolving com.chuusai#shapeless_2.11;2.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c12e5aa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44818bd1
 [debug] sbt-chain: module revision found in cache: com.chuusai#shapeless_2.11;2.3.2
 [debug] 	found com.chuusai#shapeless_2.11;2.3.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.chuusai#shapeless_2.11;2.3.2 [compile->runtime]
@@ -1347,7 +1347,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.chuusai#shapeless_2.11;2.3.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.typelevel#macro-compat_2.11;1.1.1 [compile->default(compile)]
 [info] Resolving org.typelevel#macro-compat_2.11;1.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@438f5b16
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55804c37
 [debug] sbt-chain: module revision found in cache: org.typelevel#macro-compat_2.11;1.1.1
 [debug] 	found org.typelevel#macro-compat_2.11;1.1.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.typelevel#macro-compat_2.11;1.1.1 [compile->runtime]
@@ -1355,7 +1355,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.typelevel#macro-compat_2.11;1.1.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->edu.stanford.nlp#stanford-corenlp;3.9.1 [compile->default(compile)]
 [info] Resolving edu.stanford.nlp#stanford-corenlp;3.9.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24326470
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@595af04d
 [debug] sbt-chain: module revision found in cache: edu.stanford.nlp#stanford-corenlp;3.9.1
 [debug] 	found edu.stanford.nlp#stanford-corenlp;3.9.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->edu.stanford.nlp#stanford-corenlp;3.9.1 [compile->runtime]
@@ -1363,7 +1363,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->edu.stanford.nlp#stanford-corenlp;3.9.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->de.jollyday#jollyday;0.4.9 [compile->default(compile)]
 [info] Resolving de.jollyday#jollyday;0.4.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77ce6cfc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3cc000bc
 [debug] sbt-chain: module revision found in cache: de.jollyday#jollyday;0.4.9
 [debug] 	found de.jollyday#jollyday;0.4.9 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->de.jollyday#jollyday;0.4.9 [compile->runtime]
@@ -1371,7 +1371,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->de.jollyday#jollyday;0.4.9 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.xml.bind#jaxb-api;2.2.7 [compile->default(compile)]
 [info] Resolving javax.xml.bind#jaxb-api;2.2.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11f8731b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d3de11e
 [debug] sbt-chain: module revision found in cache: javax.xml.bind#jaxb-api;2.2.7
 [debug] 	found javax.xml.bind#jaxb-api;2.2.7 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.xml.bind#jaxb-api;2.2.7 [compile->runtime]
@@ -1379,7 +1379,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->javax.xml.bind#jaxb-api;2.2.7 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.lucene#lucene-queryparser;4.10.3 [compile->default(compile)]
 [info] Resolving org.apache.lucene#lucene-queryparser;4.10.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@341e30aa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@855ccb6
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-queryparser;4.10.3
 [debug] 	found org.apache.lucene#lucene-queryparser;4.10.3 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.lucene#lucene-queryparser;4.10.3 [compile->runtime]
@@ -1387,7 +1387,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.lucene#lucene-queryparser;4.10.3 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.lucene#lucene-core;4.10.3 [compile->default(compile)]
 [info] Resolving org.apache.lucene#lucene-core;4.10.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@300d0766
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@401caae9
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-core;4.10.3
 [debug] 	found org.apache.lucene#lucene-core;4.10.3 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.lucene#lucene-core;4.10.3 [compile->runtime]
@@ -1395,7 +1395,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.lucene#lucene-core;4.10.3 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.lucene#lucene-queries;4.10.3 [compile->default(compile)]
 [info] Resolving org.apache.lucene#lucene-queries;4.10.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7616b297
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c5d1ce2
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-queries;4.10.3
 [debug] 	found org.apache.lucene#lucene-queries;4.10.3 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.lucene#lucene-queries;4.10.3 [compile->runtime]
@@ -1403,7 +1403,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.lucene#lucene-queries;4.10.3 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.lucene#lucene-sandbox;4.10.3 [compile->default(compile)]
 [info] Resolving org.apache.lucene#lucene-sandbox;4.10.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cc305dd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@59145e1b
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-sandbox;4.10.3
 [debug] 	found org.apache.lucene#lucene-sandbox;4.10.3 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.lucene#lucene-sandbox;4.10.3 [compile->runtime]
@@ -1411,7 +1411,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.lucene#lucene-sandbox;4.10.3 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.lucene#lucene-analyzers-common;4.10.3 [compile->default(compile)]
 [info] Resolving org.apache.lucene#lucene-analyzers-common;4.10.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@139e9241
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@133ad020
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-analyzers-common;4.10.3
 [debug] 	found org.apache.lucene#lucene-analyzers-common;4.10.3 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.lucene#lucene-analyzers-common;4.10.3 [compile->runtime]
@@ -1419,7 +1419,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.lucene#lucene-analyzers-common;4.10.3 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->default(compile)]
 [info] Resolving com.io7m.xom#xom;1.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ad3a87f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2fa3025b
 [debug] sbt-chain: module revision found in cache: com.io7m.xom#xom;1.2.10
 [debug] 	found com.io7m.xom#xom;1.2.10 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->runtime]
@@ -1427,7 +1427,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.io7m.xom#xom;1.2.10 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->xalan#xalan;2.7.0 [compile->default(compile)]
 [info] Resolving xalan#xalan;2.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f8626a3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34fc23c2
 [debug] sbt-chain: module revision found in cache: xalan#xalan;2.7.0
 [debug] 	found xalan#xalan;2.7.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->xalan#xalan;2.7.0 [compile->runtime]
@@ -1435,7 +1435,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->xalan#xalan;2.7.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.googlecode.efficient-java-matrix-library#ejml;0.23 [compile->default(compile)]
 [info] Resolving com.googlecode.efficient-java-matrix-library#ejml;0.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@144ce54b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@778f9400
 [debug] sbt-chain: module revision found in cache: com.googlecode.efficient-java-matrix-library#ejml;0.23
 [debug] 	found com.googlecode.efficient-java-matrix-library#ejml;0.23 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.googlecode.efficient-java-matrix-library#ejml;0.23 [compile->runtime]
@@ -1443,7 +1443,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.googlecode.efficient-java-matrix-library#ejml;0.23 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish#javax.json;1.0.4 [compile->default(compile)]
 [info] Resolving org.glassfish#javax.json;1.0.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2918fd8a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13ff3f07
 [debug] sbt-chain: module revision found in cache: org.glassfish#javax.json;1.0.4
 [debug] 	found org.glassfish#javax.json;1.0.4 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish#javax.json;1.0.4 [compile->runtime]
@@ -1451,7 +1451,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.glassfish#javax.json;1.0.4 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.google.protobuf#protobuf-java;3.2.0 [compile->default(compile)]
 [info] Resolving com.google.protobuf#protobuf-java;3.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b6ef7c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@17589acc
 [debug] sbt-chain: module revision found in cache: com.google.protobuf#protobuf-java;3.2.0
 [debug] 	found com.google.protobuf#protobuf-java;3.2.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.google.protobuf#protobuf-java;3.2.0 [compile->runtime]
@@ -1459,7 +1459,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.google.protobuf#protobuf-java;3.2.0 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->edu.stanford.nlp#stanford-parser;3.9.1 [compile->default(compile)]
 [info] Resolving edu.stanford.nlp#stanford-parser;3.9.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b64784
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d07f00
 [debug] sbt-chain: module revision found in cache: edu.stanford.nlp#stanford-parser;3.9.1
 [debug] 	found edu.stanford.nlp#stanford-parser;3.9.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->edu.stanford.nlp#stanford-parser;3.9.1 [compile->runtime]
@@ -1467,7 +1467,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->edu.stanford.nlp#stanford-parser;3.9.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.5 [compile->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpcore;4.4.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6726b4ca
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25578139
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpcore;4.4.5
 [debug] 	found org.apache.httpcomponents#httpcore;4.4.5 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.5 [compile->runtime]
@@ -1475,7 +1475,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.5 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpclient;4.5.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26bd23bb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1912a858
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpclient;4.5.2
 [debug] 	found org.apache.httpcomponents#httpclient;4.5.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->runtime]
@@ -1483,7 +1483,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-logging#commons-logging;1.2 [compile->default(compile)]
 [info] Resolving commons-logging#commons-logging;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6993a555
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d560f55
 [debug] sbt-chain: module revision found in cache: commons-logging#commons-logging;1.2
 [debug] 	found commons-logging#commons-logging;1.2 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-logging#commons-logging;1.2 [compile->runtime]
@@ -1491,7 +1491,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->commons-logging#commons-logging;1.2 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.googlecode.json-simple#json-simple;1.1.1 [compile->default(compile)]
 [info] Resolving com.googlecode.json-simple#json-simple;1.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42d027ce
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51215140
 [debug] sbt-chain: module revision found in cache: com.googlecode.json-simple#json-simple;1.1.1
 [debug] 	found com.googlecode.json-simple#json-simple;1.1.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.googlecode.json-simple#json-simple;1.1.1 [compile->runtime]
@@ -1499,7 +1499,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.googlecode.json-simple#json-simple;1.1.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->junit#junit;4.10 [compile->default(compile)]
 [info] Resolving junit#junit;4.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7385e1f0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f51f583
 [debug] sbt-chain: module revision found in cache: junit#junit;4.10
 [debug] 	found junit#junit;4.10 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->junit#junit;4.10 [compile->runtime]
@@ -1507,7 +1507,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->junit#junit;4.10 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.hamcrest#hamcrest-core;1.1 [compile->default(compile)]
 [info] Resolving org.hamcrest#hamcrest-core;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d32745a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ce97c8
 [debug] sbt-chain: module revision found in cache: org.hamcrest#hamcrest-core;1.1
 [debug] 	found org.hamcrest#hamcrest-core;1.1 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.hamcrest#hamcrest-core;1.1 [compile->runtime]
@@ -1515,7 +1515,7 @@
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->org.hamcrest#hamcrest-core;1.1 [compile->master]
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.github.scopt#scopt_2.10;3.4.0 [compile->default(compile)]
 [info] Resolving com.github.scopt#scopt_2.10;3.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78d28f4a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2427bbb
 [debug] sbt-chain: module revision found in cache: com.github.scopt#scopt_2.10;3.4.0
 [debug] 	found com.github.scopt#scopt_2.10;3.4.0 in sbt-chain
 [debug] == resolving dependencies ontology-project#ontology-project$sources_2.11;1.0->com.github.scopt#scopt_2.10;3.4.0 [compile->runtime]
@@ -14179,7 +14179,7 @@
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.8!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
-[debug] :: resolution report :: resolve 34053ms :: artifacts dl 876ms
+[debug] :: resolution report :: resolve 18858ms :: artifacts dl 852ms
 [debug] 	report for ontology-project#ontology-project$sources_2.11;1.0 compile produced in C:\dev\CS5560-Lab\Lab2\Lab2-Spark\target\resolution-cache\reports\ontology-project-ontology-project$sources_2.11-compile.xml
 [debug] 	report for ontology-project#ontology-project$sources_2.11;1.0 runtime produced in C:\dev\CS5560-Lab\Lab2\Lab2-Spark\target\resolution-cache\reports\ontology-project-ontology-project$sources_2.11-runtime.xml
 [debug] 	report for ontology-project#ontology-project$sources_2.11;1.0 test produced in C:\dev\CS5560-Lab\Lab2\Lab2-Spark\target\resolution-cache\reports\ontology-project-ontology-project$sources_2.11-test.xml
@@ -14193,4 +14193,4 @@
 [debug] 	report for ontology-project#ontology-project$sources_2.11;1.0 docs produced in C:\dev\CS5560-Lab\Lab2\Lab2-Spark\target\resolution-cache\reports\ontology-project-ontology-project$sources_2.11-docs.xml
 [debug] 	report for ontology-project#ontology-project$sources_2.11;1.0 pom produced in C:\dev\CS5560-Lab\Lab2\Lab2-Spark\target\resolution-cache\reports\ontology-project-ontology-project$sources_2.11-pom.xml
 [debug] 	report for ontology-project#ontology-project$sources_2.11;1.0 scala-tool produced in C:\dev\CS5560-Lab\Lab2\Lab2-Spark\target\resolution-cache\reports\ontology-project-ontology-project$sources_2.11-scala-tool.xml
-[debug] 	resolve done (34053ms resolve - 876ms download)
+[debug] 	resolve done (18858ms resolve - 852ms download)
