@@ -70,13 +70,4 @@ object SparkOpenIE {
     subjectWriter.close()
     allTripletsWriter.close()
   }
-
-  // Stop words
-//  val stopwords = sc.textFile("data/stopwords.txt").collect()
-//  val stopWordBroadCast = sc.broadcast(stopwords)
-//
-//  val input2 = sc.textFile("data/sentenceSample").map( f => {
-//    val afterStopWordsRemoval = f.split(" ").filter(!stopWordBroadCast.value.contains(_))
-//  })
-
 }

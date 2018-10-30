@@ -2,45 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b224231d-5da2-4f7b-a9f4-c34f68ca0419" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Ontology Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Ontology Project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/ontology_construction/OntologyConstruction.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ontology_construction/OntologyConstruction.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/openie/CoreNLP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/openie/CoreNLP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/openie/SparkOpenIE.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/openie/SparkOpenIE.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/ontology-project/ontology-project$sources_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/ontology-project/ontology-project$sources_2.11/1.0/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/ontology-project/ontology-project$sources_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/ontology-project/ontology-project$sources_2.11/1.0/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-docs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-sources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ontology-project-ontology-project$sources_2.11-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ontology_construction/OntologyConstruction$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/ontology_construction/OntologyConstruction$$anonfun$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ontology_construction/OntologyConstruction$$anonfun$3$$anonfun$apply$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ontology_construction/OntologyConstruction$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/ontology_construction/OntologyConstruction$$anonfun$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ontology_construction/OntologyConstruction$$anonfun$4$$anonfun$apply$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ontology_construction/OntologyConstruction$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/ontology_construction/OntologyConstruction$$anonfun$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ontology_construction/OntologyConstruction$$anonfun$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/ontology_construction/OntologyConstruction$$anonfun$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ontology_construction/OntologyConstruction$$anonfun$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/ontology_construction/OntologyConstruction$$anonfun$main$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ontology_construction/OntologyConstruction$$anonfun$main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/ontology_construction/OntologyConstruction$$anonfun$main$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/ontology_construction/OntologyConstruction$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/ontology_construction/OntologyConstruction$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/openie/CoreNLP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/openie/CoreNLP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$1$$anonfun$apply$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/word2vec/TF_IDF.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/word2vec/TF_IDF.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/word2vec/W2V.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/word2vec/W2V.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/openie/SparkOpenIE$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/openie/SparkOpenIE$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$main$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$main$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$$anonfun$main$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$$anonfun$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$$anonfun$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$$anonfun$doWord2Vec$1$$anonfun$apply$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$$anonfun$doWord2Vec$1$$anonfun$apply$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$$anonfun$doWord2Vec$1$$anonfun$apply$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$$anonfun$doWord2Vec$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$$anonfun$doWord2Vec$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$$anonfun$doWord2Vec$3$$anonfun$apply$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$$anonfun$doWord2Vec$3$$anonfun$apply$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$$anonfun$doWord2Vec$3$$anonfun$apply$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$$anonfun$doWord2Vec$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$$anonfun$doWord2Vec$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/W2V$.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -185,53 +190,55 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Classes" value="6" />
-          <entry key="Individuals" value="3" />
-          <entry key="ObjectProperties" value="2" />
+          <entry key="Classes" value="8" />
+          <entry key="Individuals" value="5" />
+          <entry key="ObjectProperties" value="3" />
           <entry key="SubClasses" value="3" />
-          <entry key="Triplets" value="5" />
+          <entry key="Triplets" value="6" />
           <entry key="input" value="1" />
-          <entry key="java" value="23" />
+          <entry key="java" value="27" />
           <entry key="part-00000" value="18" />
           <entry key="part-00001" value="14" />
-          <entry key="part-00002" value="8" />
-          <entry key="part-00003" value="5" />
-          <entry key="part-00004" value="2" />
+          <entry key="part-00002" value="9" />
+          <entry key="part-00003" value="6" />
+          <entry key="part-00004" value="3" />
           <entry key="part-00005" value="4" />
           <entry key="part-00006" value="5" />
           <entry key="part-00007" value="4" />
-          <entry key="part-00008" value="7" />
+          <entry key="part-00008" value="8" />
           <entry key="part-00009" value="3" />
           <entry key="part-00010" value="2" />
           <entry key="part-00011" value="4" />
-          <entry key="part-00012" value="1" />
+          <entry key="part-00012" value="2" />
           <entry key="part-00013" value="2" />
-          <entry key="part-00014" value="1" />
+          <entry key="part-00014" value="2" />
           <entry key="part-00015" value="1" />
-          <entry key="part-00016" value="1" />
+          <entry key="part-00016" value="2" />
           <entry key="part-00017" value="1" />
-          <entry key="part-00018" value="2" />
+          <entry key="part-00018" value="3" />
           <entry key="part-00019" value="1" />
           <entry key="part-00020" value="2" />
           <entry key="part-00021" value="2" />
           <entry key="part-00022" value="2" />
           <entry key="part-00026" value="2" />
+          <entry key="part-00027" value="1" />
           <entry key="part-00029" value="1" />
           <entry key="part-00031" value="1" />
+          <entry key="part-00032" value="1" />
           <entry key="part-00033" value="1" />
-          <entry key="part-00034" value="1" />
+          <entry key="part-00034" value="2" />
           <entry key="part-00035" value="1" />
           <entry key="part-00036" value="1" />
           <entry key="sbt" value="4" />
-          <entry key="scala" value="72" />
-          <entry key="txt" value="504" />
+          <entry key="scala" value="91" />
+          <entry key="txt" value="537" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="23" />
-          <entry key="PLAIN_TEXT" value="624" />
-          <entry key="Scala" value="72" />
+          <entry key="JAVA" value="27" />
+          <entry key="PLAIN_TEXT" value="674" />
+          <entry key="Scala" value="91" />
           <entry key="sbt" value="4" />
         </counts>
       </usages-collector>
@@ -240,15 +247,15 @@
           <entry key="Individuals" value="1" />
           <entry key="java" value="3542" />
           <entry key="sbt" value="44" />
-          <entry key="scala" value="13184" />
-          <entry key="txt" value="189" />
+          <entry key="scala" value="13508" />
+          <entry key="txt" value="190" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="3542" />
-          <entry key="PLAIN_TEXT" value="190" />
-          <entry key="Scala" value="13184" />
+          <entry key="PLAIN_TEXT" value="191" />
+          <entry key="Scala" value="13508" />
           <entry key="sbt" value="44" />
         </counts>
       </usages-collector>
@@ -257,33 +264,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/ontology_construction/OntologyConstruction.scala">
+        <entry file="file://$PROJECT_DIR$/data/ontology/objects/categorizedObjects.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="68" column="73" selection-start-line="68" selection-start-column="73" selection-end-line="68" selection-end-column="73" />
+            <state relative-caret-position="-8358">
+              <caret line="40" column="9" selection-start-line="40" selection-end-line="40" selection-end-column="9" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/ontology/construction/Individuals">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/ontology/construction/SubClasses">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data/ontology/construction/Triplets">
+        <entry file="file://$PROJECT_DIR$/data/ontology/triplets/allTriplets.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+            <state relative-caret-position="-8358">
+              <caret line="40" column="28" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -292,16 +285,64 @@
         <entry file="file://$PROJECT_DIR$/data/ontology/construction/Classes">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="130">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/ontology/construction/ObjectProperties">
+        <entry file="file://$PROJECT_DIR$/data/ontology/construction/Triplets">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="-8098">
+              <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/ontology/subjects/subjects.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-9384" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/ontology/predicates/predicates.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-9384" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/ontology/objects/objects.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-9398" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/grouping/BioNLP_Grouping.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/ontology_construction/OntologyConstruction.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/SparkBioNLP.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="43" column="92" selection-start-line="43" selection-start-column="92" selection-end-line="43" selection-end-column="92" />
             </state>
           </provider>
         </entry>
@@ -317,10 +358,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>output</find>
-      <find>demn</find>
-      <find>dem</find>
-      <find>deme</find>
       <find>demen</find>
       <find>topLem</find>
       <find>top</find>
@@ -345,8 +382,12 @@
       <find>vulnerabi</find>
       <find>vulnerability</find>
       <find>&quot;_&quot;</find>
-      <find>%</find>
       <find>32.2</find>
+      <find>%</find>
+      <find>setmin</find>
+      <find>homeless</find>
+      <find>be</find>
+      <find>we</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -355,14 +396,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/finalData/medWords.txt" />
         <option value="$PROJECT_DIR$/src/main/scala/word2vec/NGRAM.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/word2vec/CoreNLP.java" />
         <option value="$PROJECT_DIR$/src/main/scala/wordnet/WordNetSpark.scala" />
         <option value="$PROJECT_DIR$/data/TF_IDF/wordStats/topLemWords.txt" />
         <option value="$PROJECT_DIR$/data/TF_IDF/wordStats/topNGRAMs.txt" />
         <option value="$PROJECT_DIR$/data/TF_IDF/wordStats/topWords.txt" />
-        <option value="$PROJECT_DIR$/src/main/scala/word2vec/W2V.scala" />
         <option value="$PROJECT_DIR$/data/medWordsSeparate/medWords_1.txt" />
         <option value="$PROJECT_DIR$/data/medWordsSeparate/medWords_2.txt" />
         <option value="$PROJECT_DIR$/data/medWordsSeparate/medWords_3.txt" />
@@ -393,7 +432,6 @@
         <option value="$PROJECT_DIR$/data/medWordsSeparate/medWords_17.txt" />
         <option value="$PROJECT_DIR$/src/main/scala/word2vec/W2V_medWords.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/openie/SparkPOSCount.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/word2vec/TF_IDF.scala" />
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/RESTClientGet.java" />
         <option value="$PROJECT_DIR$/data/medWords/allUniqueMedWords.txt" />
@@ -402,10 +440,13 @@
         <option value="$PROJECT_DIR$/data/ontology/construction/Classes.txt" />
         <option value="$PROJECT_DIR$/src/main/scala/openie/CoreNLP.java" />
         <option value="$PROJECT_DIR$/src/main/scala/grouping/BioNLP_Grouping.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/openie/SparkOpenIE.scala" />
         <option value="$PROJECT_DIR$/data/ontology/construction/SubClasses.txt" />
         <option value="$PROJECT_DIR$/data/ontology/construction/Individuals" />
         <option value="$PROJECT_DIR$/src/main/scala/ontology_construction/OntologyConstruction.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/openie/SparkOpenIE.scala" />
+        <option value="$PROJECT_DIR$/data/Word2Vec/topLemWord2Vec.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/word2vec/TF_IDF.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/word2vec/W2V.scala" />
       </list>
     </option>
   </component>
@@ -445,6 +486,12 @@
               <item name="Ontology Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="medWords" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ontology Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
               <item name="ontology" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -453,6 +500,53 @@
               <item name="data" type="462c0819:PsiDirectoryNode" />
               <item name="ontology" type="462c0819:PsiDirectoryNode" />
               <item name="construction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ontology Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="ontology" type="462c0819:PsiDirectoryNode" />
+              <item name="objects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ontology Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="ontology" type="462c0819:PsiDirectoryNode" />
+              <item name="predicates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ontology Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="ontology" type="462c0819:PsiDirectoryNode" />
+              <item name="subjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ontology Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="ontology" type="462c0819:PsiDirectoryNode" />
+              <item name="triplets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ontology Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="TF_IDF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ontology Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="TF_IDF" type="462c0819:PsiDirectoryNode" />
+              <item name="wordStats" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ontology Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="Word2Vec" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Ontology Project" type="b2602c69:ProjectViewProjectNode" />
@@ -515,6 +609,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="word2vec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ontology Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="wordnet" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -529,16 +631,18 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540838244328" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540872260365" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\dev\CS5560-Lab\Lab2\Lab2-Spark\mental_illness_abastracts1" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\dev\CS5560-Lab\Lab2\Lab2-Spark\data\ontology\construction" />
-      <recent name="C:\dev\CS5560-ICP\KDM-ICP4\CS5560-Tutorial 4 Spark Source Code\Spark WordCount\src\main\scala" />
+      <recent name="C:\dev\CS5560-Lab\Lab2\Lab2-Spark\src\main\scala\openie" />
+      <recent name="C:\dev\CS5560-ICP\KDM-ICP4\CS5560-Tutorial 4 Spark Source Code\Spark WordCount\data_ids" />
+      <recent name="C:\dev\CS5560-ICP\KDM-ICP4\CS5560-Tutorial 4 Spark Source Code\Spark WordCount\src\main\scala\NCBO_BioNLP" />
+      <recent name="C:\dev\CS5560-ICP\KDM-ICP4\CS5560-Tutorial 4 Spark Source Code\Spark WordCount\data" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ontology_construction" />
@@ -546,12 +650,12 @@
       <recent name="word2vec" />
       <recent name="NCBO_BioNLP" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\CS5560-Lab\Lab2\Lab2-Spark\mental_illness_abstracts" />
+      <recent name="C:\dev\CS5560-Lab\Lab2\Lab2-Spark\data" />
+      <recent name="C:\dev\CS5560-Lab\Lab2\Lab2-Spark\mental_illness_abastracts1" />
       <recent name="C:\dev\CS5560-Lab\Lab2\Lab2-Spark\data\ontology\construction" />
-      <recent name="C:\dev\CS5560-Lab\Lab2\Lab2-Spark\src\main\scala\openie" />
-      <recent name="C:\dev\CS5560-ICP\KDM-ICP4\CS5560-Tutorial 4 Spark Source Code\Spark WordCount\data_ids" />
-      <recent name="C:\dev\CS5560-ICP\KDM-ICP4\CS5560-Tutorial 4 Spark Source Code\Spark WordCount\src\main\scala\NCBO_BioNLP" />
-      <recent name="C:\dev\CS5560-ICP\KDM-ICP4\CS5560-Tutorial 4 Spark Source Code\Spark WordCount\data" />
+      <recent name="C:\dev\CS5560-ICP\KDM-ICP4\CS5560-Tutorial 4 Spark Source Code\Spark WordCount\src\main\scala" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -612,6 +716,7 @@
     <configuration name="SparkOpenIE" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="openie.SparkOpenIE" />
       <module name="Ontology Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="openie.*" />
@@ -622,9 +727,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TF_IDF" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="word2vec.TF_IDF" />
-      <module name="Lab2-Spark" />
+    <configuration name="W2V" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="word2vec.W2V" />
+      <module name="Ontology Project" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -670,10 +775,10 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SparkOpenIE" />
-      <item itemvalue="Application.TF_IDF" />
-      <item itemvalue="Application.SparkBioNLP" />
       <item itemvalue="Application.BioNLP_Grouping" />
+      <item itemvalue="Application.W2V" />
+      <item itemvalue="Application.SparkBioNLP" />
+      <item itemvalue="Application.SparkOpenIE" />
       <item itemvalue="Application.OntologyConstruction" />
     </list>
     <recent_temporary>
@@ -682,7 +787,7 @@
         <item itemvalue="Application.BioNLP_Grouping" />
         <item itemvalue="Application.SparkOpenIE" />
         <item itemvalue="Application.SparkBioNLP" />
-        <item itemvalue="Application.TF_IDF" />
+        <item itemvalue="Application.W2V" />
       </list>
     </recent_temporary>
   </component>
@@ -750,19 +855,19 @@
       <workItem from="1540306126232" duration="1470000" />
       <workItem from="1540320932934" duration="3241000" />
       <workItem from="1540422608127" duration="7940000" />
-      <workItem from="1540485156090" duration="12569000" />
+      <workItem from="1540485156090" duration="29756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165653000" />
+    <option name="totallyTimeSpent" value="182840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Learn" order="0" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18731117" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15785499" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="3" />
       <window_info id="Image Layers" order="4" />
@@ -770,8 +875,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32401657" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2553517" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32262996" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2553517" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39751554" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -865,158 +970,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/output/triplets/part-00003">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/triplets/triplets_abstract_14.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/triplets/triplets_abstract_18.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/triplets/triplets_abstract_13.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/triplets/triplets_abstract_6.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/triplets/triplets_abstract_7.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/triplets/triplets_abstract_1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/triplets/triplets_abstract_5.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/triplets/triplets_abstract_2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/triplets/triplets_abstract_3.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/triplets/triplets_abstract_4.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/triplets/triplets_abstract_9.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/triplets/triplets_abstract_12.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/triplets/allTriplets.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1430">
-          <caret line="55" column="58" lean-forward="true" selection-start-line="55" selection-start-column="58" selection-end-line="55" selection-end-column="58" />
-        </state>
-      </provider>
-      <provider editor-type-id="LargeFileEditor">
-        <state relative-caret-position="468">
-          <caret line="42" column="23" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/triplets/triplets_abstract_19.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/ontology/predicates/predicates.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/ontology/subjects/subjects.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/ontology/construction/Classes.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/ontology/construction/Triplets.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-358">
-          <caret line="35" column="16" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="16" />
-        </state>
-      </provider>
-      <provider editor-type-id="LargeFileEditor">
-        <state relative-caret-position="-5971026">
-          <caret line="23665" column="30" selection-start-line="23665" selection-start-column="30" selection-end-line="23665" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/ontology/construction/SubClasses.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/ontology/objects/objects.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="35" column="3" selection-start-line="35" selection-end-line="35" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.11/srcs/spark-core_2.11-2.3.1-sources.jar!/org/apache/spark/storage/memory/MemoryStore.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="216" column="6" selection-start-line="216" selection-start-column="6" selection-end-line="216" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.11/srcs/spark-core_2.11-2.3.1-sources.jar!/org/apache/spark/storage/BlockManager.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="1091" column="10" selection-start-line="1091" selection-start-column="10" selection-end-line="1091" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.11/srcs/spark-core_2.11-2.3.1-sources.jar!/org/apache/spark/storage/BlockInfoManager.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="271" column="4" selection-start-line="271" selection-start-column="4" selection-end-line="271" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.11/srcs/spark-core_2.11-2.3.1-sources.jar!/org/apache/spark/storage/StorageLevel.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/ontology/construction/ObjectProperties.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-        </state>
-      </provider>
-      <provider editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/ontology/construction/Individuals.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="98" column="11" lean-forward="true" selection-start-line="98" selection-start-column="11" selection-end-line="98" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/medWordsSeparate/medWords_30294448.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/medWordsSeparate/medWords_30294451.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/RESTClientGet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-242">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/ontology/objects/categorizedObjects.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="40" column="13" selection-start-line="40" selection-end-line="40" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/ontology/subjects/categorizedSubjects.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
@@ -1024,45 +977,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/openie/CoreNLP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-514">
-          <caret line="128" selection-start-line="128" selection-end-line="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/openie/SparkOpenIE.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="46" column="77" selection-start-line="46" selection-start-column="77" selection-end-line="46" selection-end-column="77" />
-          <folding>
-            <element signature="e#16#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/medWords/allUniqueMedWords.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/medWords/allMedWords.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/grouping/BioNLP_Grouping.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="32" column="79" selection-start-line="32" selection-start-column="79" selection-end-line="32" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/triplets/triplets_abstract_0.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/ontology/triplets/allTriplets.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="40" column="28" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="28" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/triplets/triplets_abstract_10.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -1084,55 +1003,238 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/SparkBioNLP.scala">
+    <entry file="file://$PROJECT_DIR$/data/ontology/construction/SubClasses">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/POS/part-00008">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/wordnetData/synonyms.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/wordnetData/word_counts.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Word2Vec/topMedWordsWord2Vec.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="43" column="92" lean-forward="true" selection-start-line="43" selection-start-column="92" selection-end-line="43" selection-end-column="92" />
+        <state relative-caret-position="-546" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Word2Vec/topNGRAMWord2Vec.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10112" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/openie/CoreNLP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/outputLem/part-00004">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/outputNGrams/part-00003">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/outputWords/part-00002">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/word2vec/TF_IDF_medWords.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/TF_IDF/wordStats/medWords/topWords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/TF_IDF/wordStats/medWords/topLemWords.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/TF_IDF/wordStats/medWords/topNGRAMs.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/word2vec/CoreNLP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/medWords/allUniqueMedWords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4758" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Word2Vec/topLemWord2Vec.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5952">
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/TF_IDF/wordStats/topLemWords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/wordnet/WordNetSpark.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="38" column="6" lean-forward="true" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        <state relative-caret-position="-112">
+          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/ontology/construction/Individuals">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/RESTClientGet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        <state relative-caret-position="-130">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/word2vec/W2V.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="94" column="51" selection-start-line="94" selection-start-column="51" selection-end-line="94" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/TF_IDF/wordStats/topWords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Word2Vec/topWordsWord2Vec.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2002">
+          <caret line="456" column="26" selection-start-line="456" selection-start-column="26" selection-end-line="456" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/word2vec/TF_IDF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3588">
+          <caret line="143" column="14" selection-start-line="143" selection-start-column="14" selection-end-line="143" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/ontology/construction/ObjectProperties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="-174">
+          <caret line="53" column="2" selection-start-line="53" selection-end-line="53" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/ontology/construction/SubClasses">
+    <entry file="file://$PROJECT_DIR$/output/triplets/part-00012">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/triplets/part-00014">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/triplets/part-00016">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/triplets/part-00018">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/triplets/part-00027">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/triplets/part-00032">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/triplets/part-00034">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/openie/SparkOpenIE.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+          <folding>
+            <element signature="e#16#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/ontology/construction/Classes">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/SparkBioNLP.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="43" column="92" selection-start-line="43" selection-start-column="92" selection-end-line="43" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/grouping/BioNLP_Grouping.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ontology/construction/Individuals">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="499" column="13" selection-start-line="499" selection-start-column="11" selection-end-line="499" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/ontology_construction/OntologyConstruction.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="68" column="73" selection-start-line="68" selection-start-column="73" selection-end-line="68" selection-end-column="73" />
+        <state relative-caret-position="104">
+          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/ontology/construction/Triplets">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+        <state relative-caret-position="-8098">
+          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ontology/subjects/subjects.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9384" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ontology/predicates/predicates.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9384" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ontology/objects/objects.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9398" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ontology/objects/categorizedObjects.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8358">
+          <caret line="40" column="9" selection-start-line="40" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ontology/triplets/allTriplets.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8358">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="28" />
         </state>
       </provider>
     </entry>
