@@ -14,56 +14,56 @@ import org.apache.spark.rdd.RDD
 object W2V {
   def main(args: Array[String]): Unit = {
 
+    // Change input path of abstracts here
+    val inputPath = "mental_illness_abstracts"
+
+    // Path containing top TF_IDF words
+    val tf_idfPath = "data/TF_IDF/wordStats/"
+
     System.setProperty("hadoop.home.dir", "C:\\winutils")
 
     val sparkConf = new SparkConf().setAppName("SparkWordCount").setMaster("local[*]")
       .set("spark.driver.memory", "4g").set("spark.executor.memory", "4g")
 
     val sc = new SparkContext(sparkConf)
-    val ngramValue = 2 // Value of ngram specified
 
-    val input = sc.wholeTextFiles("mental_illness_abstracts", 10)
+    //Reading the Text File
+    val documents = sc.wholeTextFiles(inputPath, 10)
+    val abstracts = documents.map(abs => {
+      abs._2
+    }).cache()
 
-    // Get just words from the abstracts
-    val words = input
-      .map { case (fn, content) => content.split(" ").filter(line => !line.equals("")).toSeq }
+    // Stop words
+    val stopwords = sc.textFile("data/stopwords.txt").collect()
+    val stopWordBroadCast = sc.broadcast(stopwords)
+
+    //Getting the words from the text files, remove stop words.
+    val abstractsWords = abstracts.map(f => {
+      val words = f.split(" ").filter(!stopWordBroadCast.value.contains(_))
+      words.toSeq
+    })
 
     // Get lemmatized words from the abstracts
-    val lemWords = input
-        .map { case (fn, content) => {
+    val lemWords = abstracts
+        .map { content => {
           val lemmatised = CoreNLP.returnLemma(content)
           val splitString = lemmatised.split(" ")
           splitString.toSeq
         }}
 
-    // Get n-grams from the abstracts
-    val NGRAMWords = input
-      .flatMap{ case (fn, content) => {
-      val ngrams = NGRAM.getNGrams(content, ngramValue)
-      ngrams.toSeq
-    }}.map(ngrams => {
-      ngrams.toSeq
-    })
-
     // Specify paths containing top TF-IDF words
-    val topWordsPath = "data/TF_IDF/wordStats/topWords.txt"
-    val topLemPath = "data/TF_IDF/wordStats/topLemWords.txt"
-    val topNGRAMSPath = "data/TF_IDF/wordStats/topNGRAMS.txt"
+    val topWordsPath = tf_idfPath.toString + "topWords.txt"
+    val topLemPath = tf_idfPath.toString + "topLemWords.txt"
 
     // Specify folders for the Models
     val modelFolder = new File("output/myModels/myWordsModel")
     val modelFolderLem = new File("output/myModels/myLemModel")
-    val modelFolderNGRAM = new File( "output/myModels/myNGRAMModel")
-
     // Specify output folder for the Word2Vec results
     val topWordsWord2VecPath = "data/Word2Vec/topWordsWord2Vec.txt"
     val topLemWord2VecPath = "data/Word2Vec/topLemWord2Vec.txt"
-    val topNGRAMWord2VecPath = "data/Word2Vec/topNGRAMWord2Vec.txt"
 
-    doWord2Vec(words, modelFolder, topWordsPath, sc, topWordsWord2VecPath)
+    doWord2Vec(abstractsWords, modelFolder, topWordsPath, sc, topWordsWord2VecPath)
     doWord2Vec(lemWords, modelFolderLem, topLemPath, sc, topLemWord2VecPath)
-    doWord2Vec(NGRAMWords, modelFolderNGRAM, topNGRAMSPath, sc, topNGRAMWord2VecPath)
-
   }
 
   def doWord2Vec(rdd: RDD[Seq[String]], modelPath: File, topWordsPath: String, sc: SparkContext, outputPath: String): Unit = {
@@ -79,7 +79,7 @@ object W2V {
       val outputWriter = new BufferedWriter(new FileWriter(outputPath))
 
       topWords.foreach(word => {
-        val synonyms = sameModel.findSynonyms(word, 40)
+        val synonyms = sameModel.findSynonyms(word, 30)
 
         for ((synonym, cosineSimilarity) <- synonyms) {
           println(word + s": $synonym $cosineSimilarity")
@@ -92,7 +92,7 @@ object W2V {
       sameModel.getVectors.foreach(f => println(f._1 + ":" + f._2.length))
     }
     else {
-      val word2vec = new Word2Vec().setVectorSize(300).setMinCount(2)
+      val word2vec = new Word2Vec().setVectorSize(200).setMinCount(4)
 
       val topWordsLines = Source.fromFile(topWordsPath).getLines()
       val topWords = topWordsLines.map(line => {
