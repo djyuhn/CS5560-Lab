@@ -116,4 +116,9 @@ The source code for this Lab Assignment was provided by the class instructor May
 
 # Screenshots of Code
 
+![TFIDF_Word2Vec](../docs/Lab3/TFIDF_Word2Vec.png)
+
+![PartialMatchingTFIDF](../docs/Lab3/PartialMatchingTFIDF.png)
+
+![OntologyConstruction](../docs/Lab3/OntologyConstruction.png)
 
