@@ -1,0 +1,17 @@
+its use	have particularly well document in	Parkinson 's disease || Parkinson 's disease	be commonly associate with	motor symptom => its use	--NEW PREDICATE--	motor symptom
+apomorphine	be in	literature || literature	be in	adult with high-functioning autism => apomorphine	--NEW PREDICATE--	adult with high-functioning autism
+family	be in	treatment || treatment	cause	possible oxidative damage in different region of brain induce by its inflammatory reaction => family	--NEW PREDICATE--	possible oxidative damage in different region of brain induce by its inflammatory reaction
+family	be in	treatment || treatment	be with	extract => family	--NEW PREDICATE--	extract
+family	be in	treatment || treatment	be with	most commonly prescribe atypical antipsychotic olanzapine => family	--NEW PREDICATE--	most commonly prescribe atypical antipsychotic olanzapine
+fcs	significantly increase after	ECT || ECT	modulate	functional connectivity of left angular gyrus => fcs	--NEW PREDICATE--	functional connectivity of left angular gyrus
+it	have for	they || they	regulate	gene function => it	--NEW PREDICATE--	gene function
+it	have for	they || they	frequently present in	general paediatric => it	--NEW PREDICATE--	general paediatric
+biomarker assessment methodology	vary substantially between	study || study	identify	risk factor for first-onset si among high-risk group => biomarker assessment methodology	--NEW PREDICATE--	risk factor for first-onset si among high-risk group
+biomarker assessment methodology	vary substantially between	study || study	examine	efficacy of repetitive transcranial magnetic stimulation in sample of young people aged => biomarker assessment methodology	--NEW PREDICATE--	efficacy of repetitive transcranial magnetic stimulation in sample of young people aged
+biomarker assessment methodology	vary substantially between	study || study	underscore	critical need for mental health initiative => biomarker assessment methodology	--NEW PREDICATE--	critical need for mental health initiative
+biomarker assessment methodology	vary substantially between	study || study	point to	effect of schizophrenia on GM early in illness => biomarker assessment methodology	--NEW PREDICATE--	effect of schizophrenia on GM early in illness
+improving communication	may alleviate	disorder || disorder	be in	user ' naturalistic environment => improving communication	--NEW PREDICATE--	user ' naturalistic environment
+second-level intervention	form of	intervention || intervention	examine	effect of intervention for cmhp in college student => second-level intervention	--NEW PREDICATE--	effect of intervention for cmhp in college student
+183 homeless patient	be in	study || study	underscore	critical need for mental health initiative => 183 homeless patient	--NEW PREDICATE--	critical need for mental health initiative
+183 homeless patient	be in	study || study	point to	effect of schizophrenia on GM early in illness => 183 homeless patient	--NEW PREDICATE--	effect of schizophrenia on GM early in illness
+cci	be positively associate with	age || age	be associate with	various psychosocial problem with potential impact on psychiatric pharmacotherapy => cci	--NEW PREDICATE--	various psychosocial problem with potential impact on psychiatric pharmacotherapy

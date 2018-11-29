@@ -1,13 +1,13 @@
 package property_characteristics;
 
 import java.io.*;
+import java.util.ArrayList;
 import java.util.List;
-import java.util.*;
 
 /**
  * Created by DJ Yuhn on 11/15/2018
  */
-public class Symmetric {
+public class Transitive {
     public static void main(String[] args) throws IOException {
         List<String> tripletsArrayList = new ArrayList<>();
         try {
@@ -23,26 +23,30 @@ public class Symmetric {
             e.printStackTrace();
         }
 
-        ArrayList<String> symmetricArray = new ArrayList<>();
-        // Symmetric
+        ArrayList<String> transitiveArray = new ArrayList<>();
+        // Transitive
         for(int i = 0; i < tripletsArrayList.size(); i++) {
             String[] splitTriplet = tripletsArrayList.get(i).split("\t");
             for (int j = i + 1; j < tripletsArrayList.size(); j++) {
                 String[] checkSplitTriplet = tripletsArrayList.get(j).split("\t");
                 if(splitTriplet.length == 3 && checkSplitTriplet.length == 3) {
-                    if (splitTriplet[2].contains(checkSplitTriplet[0]) && splitTriplet[1].contains(checkSplitTriplet[1])
-                            && splitTriplet[0].contains(checkSplitTriplet[2])) {
-                        symmetricArray.add(tripletsArrayList.get(i) + "\t => \t" + tripletsArrayList.get(j) + "\n");
+                    if (splitTriplet[1].equals(checkSplitTriplet[1])) {
+                        transitiveArray.add(tripletsArrayList.get(i) + " || "
+                                + tripletsArrayList.get(j) + " => "
+                                + splitTriplet[0] + "\t"
+                                + splitTriplet[1] + "\t"
+                                + checkSplitTriplet[2] + "\n"
+                        );
                     }
                 }
             }
         }
 
-        BufferedWriter symmetricWriter = new BufferedWriter(new FileWriter("data/symmetric.txt"));
-        for(String symmetric: symmetricArray) {
-            symmetricWriter.append(symmetric);
+        BufferedWriter transitiveWriter = new BufferedWriter(new FileWriter("data/transitive.txt"));
+        for(String symmetric: transitiveArray) {
+            transitiveWriter.append(symmetric);
         }
-        symmetricWriter.close();
+        transitiveWriter.close();
 
     }
 }
