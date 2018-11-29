@@ -1,0 +1,120 @@
+Abstract 1
+Total Word Count = 25
+WordNet Word Count = 12
+
+Abstract 2
+Total Word Count = 241
+WordNet Word Count = 108
+
+Abstract 3
+Total Word Count = 44
+WordNet Word Count = 21
+
+Abstract 4
+Total Word Count = 304
+WordNet Word Count = 146
+
+Abstract 5
+Total Word Count = 155
+WordNet Word Count = 72
+
+Abstract 6
+Total Word Count = 39
+WordNet Word Count = 12
+
+Abstract 7
+Total Word Count = 233
+WordNet Word Count = 117
+
+Abstract 8
+Total Word Count = 231
+WordNet Word Count = 104
+
+Abstract 9
+Total Word Count = 230
+WordNet Word Count = 111
+
+Abstract 10
+Total Word Count = 24
+WordNet Word Count = 9
+
+Abstract 11
+Total Word Count = 148
+WordNet Word Count = 62
+
+Abstract 12
+Total Word Count = 50
+WordNet Word Count = 26
+
+Abstract 13
+Total Word Count = 24
+WordNet Word Count = 11
+
+Abstract 14
+Total Word Count = 21
+WordNet Word Count = 9
+
+Abstract 15
+Total Word Count = 214
+WordNet Word Count = 109
+
+Abstract 16
+Total Word Count = 56
+WordNet Word Count = 30
+
+Abstract 17
+Total Word Count = 16
+WordNet Word Count = 6
+
+Abstract 18
+Total Word Count = 45
+WordNet Word Count = 17
+
+Abstract 19
+Total Word Count = 197
+WordNet Word Count = 94
+
+Abstract 20
+Total Word Count = 186
+WordNet Word Count = 92
+
+Abstract 21
+Total Word Count = 216
+WordNet Word Count = 87
+
+Abstract 22
+Total Word Count = 29
+WordNet Word Count = 10
+
+Abstract 23
+Total Word Count = 234
+WordNet Word Count = 87
+
+Abstract 24
+Total Word Count = 114
+WordNet Word Count = 57
+
+Abstract 25
+Total Word Count = 57
+WordNet Word Count = 25
+
+Abstract 26
+Total Word Count = 84
+WordNet Word Count = 37
+
+Abstract 27
+Total Word Count = 69
+WordNet Word Count = 34
+
+Abstract 28
+Total Word Count = 40
+WordNet Word Count = 16
+
+Abstract 29
+Total Word Count = 49
+WordNet Word Count = 24
+
+Abstract 30
+Total Word Count = 60
+WordNet Word Count = 25
+

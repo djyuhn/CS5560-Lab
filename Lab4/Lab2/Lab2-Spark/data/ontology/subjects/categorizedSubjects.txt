@@ -1,0 +1,372 @@
+general practitioner	Other
+cornerstone	Other
+preliminary result	Other
+New digital technology	Other
+access	Other
+cognitive-behavioural therapy	Other
+significant room	Other
+isolate disease	Other
+syndrome	Other
+apomorphine	Chemical
+its use	Other
+dopaminergic agonist	Other
+apomorphine	Chemical
+connection	Other
+structure	Other
+we	Other
+progressive neuropathic change	Other
+benefit	Other
+experience	Other
+study	Other
+physical activity	Other
+Accredited Exercise Physiologists	Other
+early intervention	Other
+General practitioner	Other
+patient	Species
+psychiatric outpatient clinic	Other
+this	Other
+long-term health-related quality	Other
+anorexia nervosa	Disease
+long-term prognosis	Other
+family	Other
+therapy	Other
+objective	Other
+talk therapy	Other
+treatment utilization	Other
+therapy	Other
+we	Other
+depression patient	Other
+resting-state functional magnetic resonance imaging	Other
+functional connectivity strength	Other
+fcs	Other
+change fcs	Other
+ECT	Other
+anxiety disorder	Disease
+they	Other
+deveau	Other
+author	Other
+they	Other
+implication	Other
+future research	Other
+positive aspect use	Other
+most college student	Other
+it	Other
+lithium	Chemical
+lithium	Chemical
+we	Other
+we	Other
+finding	Other
+lithium	Chemical
+validation	Other
+we	Other
+first evidence	Other
+brief Services psychotherapy paradigm	Other
+its clinical evaluation	Other
+individual	Other
+quality	Other
+nih-funded randomize clinical trial	Other
+dysregulation	Other
+alteration	Other
+we	Other
+we	Other
+Study quality	Other
+twenty-five study	Other
+biomarker assessment methodology	Other
+meta-analytical computation	Other
+Study characteristic	Other
+biomarker confounder consideration rating	Other
+we	Other
+literature	Other
+improving communication	Other
+communication	Other
+second-level intervention	Other
+disorder	Other
+assist outpatient treatment	Other
+goal	Other
+Parkinson 's disease	Other
+molecular imaging	Other
+chapter	Other
+we	Other
+hiv-1-infected patient	Other
+suicide rate	Other
+study	Other
+datum	Other
+patient	Species
+severity indicator	Other
+related symptom	Other
+difficulty	Other
+mental health treatment	Other
+eating-disorder psychopathology	Other
+athlete	Other
+individual	Other
+most ed assessment	Other
+purpose	Other
+avoidant/restrictive food intake disorder	Other
+severity	Other
+we	Other
+use	Other
+purpose	Other
+damaging outcome	Other
+we study	Other
+extensive research	Other
+neuroimaging	Other
+reduction	Other
+hiv protein	Other
+complement	Other
+c1qa knockout mouse	Other
+subcallosal cingulate	Other
+New development	Other
+we	Other
+activation	Other
+regressor	Other
+left cb	Other
+recovery process	Other
+sex difference	Other
+preclinical study	Other
+depression	Disease
+rat	Species
+treatment effect	Other
+chronic 17β-estradiol treatment	Other
+article	Other
+few study	Other
+purpose	Other
+treatment outcome	Other
+mood disorder	Disease
+major depressive disorder	Disease
+exist pharmacological treatment	Other
+cognitive function	Other
+neural basis	Other
+molecular mechanism	Other
+aim	Other
+we	Other
+cognitive deficit	Other
+develop area	Other
+proportion	Other
+sporadic creutzfeldt-jakob disease	Other
+it	Other
+key event	Other
+pq912	Other
+we	Other
+aim	Other
+exploratory efficacy readout	Other
+therapeutic approach	Other
+antipsychotic monotherapy	Other
+antipsychotic polypharmacy	Other
+membrane-bound nadh-dependent redox enzyme	Other
+incurable disease	Other
+cholesterol biosynthesis	Other
+cyb5r3 deficiency	Other
+its role	Other
+its role	Other
+type ii rhm	Other
+neurological symptom	Other
+homelessness	Other
+child	Species
+we	Other
+use	Other
+Methylphenidate	Chemical
+%	Other
+use	Other
+use	Other
+psychotropic drug use	Other
+use	Other
+psychotropic drug use	Other
+purpose	Other
+death anxiety	Disease
+research	Other
+psychosocial treatment	Other
+therapy type	Other
+clinical sample	Other
+grow trend	Other
+sub-theme	Other
+online community	Other
+Collaborative	Other
+demoralization	Other
+demoralization	Other
+measure	Other
+we	Other
+we result	Other
+presence	Other
+cognitive deficit	Other
+important role	Other
+research	Other
+functional ability	Other
+functional disability	Other
+performance-based functional assessment	Other
+pathogenesis	Other
+cocaine	Chemical
+modulation	Other
+catb secretion	Other
+pharmacological modulation	Other
+hiv-1 seronegative donor	Other
+aged patient	Other
+systematic study	Other
+review	Other
+gray matter volume	Other
+hearing-impairment	Disease
+association	Other
+previous research	Other
+high intensity	Other
+we	Other
+clinical high-risk state	Other
+patient	Species
+diversity	Other
+bipolar disorder	Disease
+case-control study	Other
+Citrus species	Other
+treatment	Other
+antihyperalgesia	Other
+treatment	Other
+level	Other
+result	Other
+purpose	Other
+interest	Other
+use	Other
+depression	Disease
+study	Other
+antepartum depression	Other
+aim	Other
+update information	Other
+aim	Other
+variation	Other
+homeless population	Other
+project	Other
+we	Other
+Charlson Comorbidity Index	Other
+183 homeless patient	Other
+32.2 %	Other
+cci	Other
+female	Other
+mental health disorder	Disease
+homeless woman	Other
+rate	Other
+study	Other
+other chronic psychiatric disorder	Other
+age	Other
+epigenetic mechanism	Other
+they	Other
+current state	Other
+epigenetic alteration	Other
+epigenetic mechanism	Other
+line	Other
+Age	Other
+relation	Other
+antipsychotic-naïve schizophrenia patient	Other
+we	Other
+we	Other
+study	Other
+non-adherence	Other
+patient	Species
+fear	Other
+caloric	Other
+present study	Other
+twenty-five	Other
+change	Other
+one-night fasting	Other
+procedure	Other
+plasma ghrelin level	Other
+fasting	Other
+novel procedure	Other
+evidence	Other
+we	Other
+many research question	Other
+large datum set	Other
+care-seeking	Other
+recent advance	Other
+innovation	Other
+Schizophrenia	Disease
+it	Other
+barrier	Other
+little	Other
+scop review	Other
+issue	Other
+review	Other
+it	Other
+aim	Other
+significant between-group difference	Other
+scientific knowledge	Other
+frontier	Other
+we	Other
+live space	Other
+psychopathological symptom	Other
+far-reaching relevance	Other
+article	Other
+main characteristic	Other
+common mental health problem	Other
+cmhp	Other
+intervention	Other
+meta-analysis	Other
+meta-analytic procedure	Other
+we	Other
+other intervention	Other
+Epilepsy	Disease
+management	Other
+Child Sexual abuse	Other
+we	Other
+purpose	Other
+alcohol withdrawal	Other
+content validity	Other
+Assessment	Other
+Tool	Other
+pregnancy	Other
+n	Other
+Partner dynamics	Other
+result	Other
+va reliance	Other
+aim	Other
+limited number	Other
+magnitude	Other
+use	Other
+animal study	Other
+prevalence rate	Other
+Food addiction	Disease
+polygenic score	Other
+polygenic dopamine score	Other
+food addiction	Disease
+polygenic score	Other
+evidence	Other
+untreated mental disorder	Other
+half	Other
+early intervention	Other
+atypical antipsychotic	Other
+treatment	Other
+circulate insulin	Other
+hypothalamic mif expression	Other
+Olanzapine	Chemical
+increase plasma lipid concentration	Other
+mouse	Species
+finding	Other
+health-based electronic game	Other
+design game	Other
+aim	Other
+health-based electronic game framework	Other
+determination	Other
+game framework design	Other
+sample	Other
+important component	Other
+axis	Other
+application area	Other
+sweet care game	Other
+health-based electronic game	Other
+anxiety-related disorder	Other
+they	Other
+Comprehensive assessment	Other
+medication	Other
+anxiety-related disorder	Other
+Prevention programme	Other
+Aggression	Other
+without	Other
+aggressive child	Other
+education	Other
+aggressive child	Other
+pharmacotherapy	Other
+approve thiol-containing redox modulatory compound	Other
+its site	Other
+we	Other
+disabling condition	Other
+patient	Species
+field	Other
+appropriate clinical application	Other
+such treatment	Other
+numerous other neurostimulation modality	Other
+common mental health problem	Other
